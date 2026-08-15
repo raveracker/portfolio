@@ -23,11 +23,15 @@ function SubmitButton() {
   );
 }
 
-export function ContactForm() {
+export function ContactForm({ token }: { token: string }) {
   const [state, formAction] = useActionState(sendMessage, initialState);
 
   return (
     <form action={formAction} className="space-y-4">
+      {/* Minted when the page rendered and signed server-side. Proves the
+          submission came from a real page load, and carries the timestamp the
+          action uses to reject instant posts. */}
+      <input type="hidden" name="t" value={token} />
       <div>
         <label htmlFor="name" className="mb-1.5 block text-sm font-medium">
           Name

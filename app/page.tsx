@@ -24,6 +24,7 @@ import { engagements } from "@/content/experience";
 import { profile } from "@/content/profile";
 import { featuredProjects } from "@/content/projects";
 import { marqueeSkills } from "@/content/skills";
+import { hasResume, RESUME_PATH } from "@/lib/resume";
 
 const featuredWork = engagements.filter((engagement) => engagement.caseStudy);
 
@@ -68,6 +69,17 @@ export default function HomePage() {
             <CtaLink href="/about" variant="ghost">
               Meet the person
             </CtaLink>
+            {/* Opens in the browser's own PDF viewer rather than downloading. */}
+            {hasResume && (
+              <CtaLink
+                href={RESUME_PATH}
+                variant="ghost"
+                target="_blank"
+                rel="noreferrer"
+              >
+                Resume
+              </CtaLink>
+            )}
           </div>
         </Section>
       </div>
@@ -196,6 +208,16 @@ export default function HomePage() {
               <CtaLink href="/about" variant="ghost">
                 My story
               </CtaLink>
+              {hasResume && (
+                <CtaLink
+                  href={RESUME_PATH}
+                  variant="ghost"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  My Resume
+                </CtaLink>
+              )}
             </div>
           </div>
 
