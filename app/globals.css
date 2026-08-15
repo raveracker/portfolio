@@ -1,26 +1,266 @@
 @import "tailwindcss";
+@import "tw-animate-css";
+@import "shadcn/tailwind.css";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
+@custom-variant dark (&:is(.dark *));
+
+/* ---------------------------------------------------------------------------
+   Twilight Hues
+
+   Primary  sky      #87CEEB  oklch(0.8148 0.0819 225.8)
+   Secondary         #8A2BE2  blueviolet
+                     #9400D3  darkviolet
+                     #9932CC  darkorchid
+                     #BA55D3  mediumorchid
+
+   Sky carries the dark theme: 11.2:1 on the near-black backdrop. It cannot
+   carry the light theme, where it lands at 1.7:1 on white, so light mode uses
+   the same hue pulled down to oklch L 0.539 for 4.6:1 on the card surface.
+   The purples are the mirror image - strong on white, weak on black - so the
+   violet accent is lightened to L 0.618 in dark mode and used raw in light.
+   Every foreground value below was solved against the *surface*, the harder
+   of the two backdrops, not against the page background.
+   ------------------------------------------------------------------------- */
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
+  --font-sans: var(--font-sans);
   --font-mono: var(--font-geist-mono);
+  --font-heading: var(--font-sans);
+  --color-sidebar-ring: var(--sidebar-ring);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar: var(--sidebar);
+  --color-chart-5: var(--chart-5);
+  --color-chart-4: var(--chart-4);
+  --color-chart-3: var(--chart-3);
+  --color-chart-2: var(--chart-2);
+  --color-chart-1: var(--chart-1);
+  --color-ring: var(--ring);
+  --color-input: var(--input);
+  --color-border: var(--border);
+  --color-destructive: var(--destructive);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-accent: var(--accent);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-muted: var(--muted);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-secondary: var(--secondary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-primary: var(--primary);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-popover: var(--popover);
+  --color-card-foreground: var(--card-foreground);
+  --color-card: var(--card);
+  --radius-sm: calc(var(--radius) * 0.6);
+  --radius-md: calc(var(--radius) * 0.8);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) * 1.4);
+  --radius-2xl: calc(var(--radius) * 1.8);
+  --radius-3xl: calc(var(--radius) * 2.2);
+  --radius-4xl: calc(var(--radius) * 2.6);
+
+  /* Semantic layer. `brand` is anything interactive, `signal` is anything
+     that reports a value - metrics, availability, success. */
+  --color-brand: var(--brand);
+  --color-brand-muted: var(--brand-muted);
+  --color-brand-contrast: var(--brand-contrast);
+  --color-signal: var(--signal);
+  --color-signal-muted: var(--signal-muted);
+  --color-surface: var(--surface);
+  --color-surface-raised: var(--surface-raised);
+  --color-hairline: var(--hairline);
+
+  /* Raw twilight stops. Decoration only - gradients, glows, the aurora.
+     Never used for text, so they are not contrast-bound. */
+  --color-twilight-sky: var(--twilight-sky);
+  --color-twilight-orchid: var(--twilight-orchid);
+  --color-twilight-darkorchid: var(--twilight-darkorchid);
+  --color-twilight-darkviolet: var(--twilight-darkviolet);
+  --color-twilight-blueviolet: var(--twilight-blueviolet);
+
+  --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-in-out-quint: cubic-bezier(0.83, 0, 0.17, 1);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+:root {
+  /* Light theme -------------------------------------------------------- */
+  --background: oklch(0.99 0.004 250);
+  --foreground: oklch(0.3168 0.02 288); /* 12.5:1 on background */
+  --card: oklch(1 0 0);
+  --card-foreground: var(--foreground);
+  --popover: oklch(1 0 0);
+  --popover-foreground: var(--foreground);
+
+  --primary: oklch(0.5393 0.095 225.8); /* sky, darkened for white  4.8:1 */
+  --primary-foreground: oklch(0.99 0.004 250);
+  --secondary: oklch(0.96 0.012 280);
+  --secondary-foreground: oklch(0.3168 0.02 288);
+  --muted: oklch(0.965 0.008 265);
+  --muted-foreground: oklch(0.5469 0.022 288); /* 4.8:1 on background */
+  --accent: oklch(0.955 0.02 300);
+  --accent-foreground: oklch(0.5149 0.2607 309.8);
+  --destructive: oklch(0.577 0.245 27.325);
+  --border: oklch(0.9 0.008 265);
+  --input: oklch(0.9 0.008 265);
+  --ring: oklch(0.5393 0.095 225.8);
+
+  --chart-1: oklch(0.5393 0.095 225.8);
+  --chart-2: oklch(0.5149 0.2607 309.8);
+  --chart-3: oklch(0.5411 0.2272 311.5);
+  --chart-4: oklch(0.5338 0.2503 301.4);
+  --chart-5: oklch(0.6256 0.2024 319.2);
+
+  --radius: 0.625rem;
+
+  --sidebar: oklch(0.975 0.006 250);
+  --sidebar-foreground: var(--foreground);
+  --sidebar-primary: oklch(0.5393 0.095 225.8);
+  --sidebar-primary-foreground: oklch(0.99 0.004 250);
+  --sidebar-accent: oklch(0.955 0.02 300);
+  --sidebar-accent-foreground: oklch(0.5149 0.2607 309.8);
+  --sidebar-border: oklch(0.9 0.008 265);
+  --sidebar-ring: oklch(0.5393 0.095 225.8);
+
+  --brand: oklch(0.5393 0.095 225.8);
+  --brand-muted: oklch(0.5393 0.095 225.8 / 12%);
+  --brand-contrast: oklch(0.99 0.004 250);
+  --signal: oklch(0.5149 0.2607 309.8); /* darkviolet  6.1:1 on surface */
+  --signal-muted: oklch(0.5149 0.2607 309.8 / 11%);
+  --surface: oklch(0.975 0.006 250);
+  --surface-raised: oklch(1 0 0);
+  --hairline: oklch(0.895 0.009 265);
+
+  --twilight-sky: #87ceeb;
+  --twilight-orchid: #ba55d3;
+  --twilight-darkorchid: #9932cc;
+  --twilight-darkviolet: #9400d3;
+  --twilight-blueviolet: #8a2be2;
+}
+
+.dark {
+  /* Dark theme - the default, and where the palette is happiest --------- */
+  --background: oklch(0.16 0.018 288);
+  --foreground: oklch(0.8611 0.012 285); /* 12.7:1 on background */
+  --card: oklch(0.205 0.02 288);
+  --card-foreground: var(--foreground);
+  --popover: oklch(0.205 0.02 288);
+  --popover-foreground: var(--foreground);
+
+  --primary: oklch(0.8148 0.0819 225.8); /* #87CEEB exactly  11.2:1 */
+  --primary-foreground: oklch(0.16 0.018 288);
+  --secondary: oklch(0.27 0.028 292);
+  --secondary-foreground: var(--foreground);
+  --muted: oklch(0.26 0.024 290);
+  --muted-foreground: oklch(0.5989 0.022 288); /* 4.9:1 on background */
+  --accent: oklch(0.29 0.05 305);
+  --accent-foreground: oklch(0.8148 0.0819 225.8);
+  --destructive: oklch(0.704 0.191 22.216);
+  --border: oklch(0.82 0.06 280 / 14%);
+  --input: oklch(0.82 0.06 280 / 18%);
+  --ring: oklch(0.8148 0.0819 225.8);
+
+  --chart-1: oklch(0.8148 0.0819 225.8);
+  --chart-2: oklch(0.6182 0.17 319.2);
+  --chart-3: oklch(0.62 0.19 311.5);
+  --chart-4: oklch(0.6 0.2 301.4);
+  --chart-5: oklch(0.72 0.13 260);
+
+  --sidebar: oklch(0.195 0.02 288);
+  --sidebar-foreground: var(--foreground);
+  --sidebar-primary: oklch(0.8148 0.0819 225.8);
+  --sidebar-primary-foreground: oklch(0.16 0.018 288);
+  --sidebar-accent: oklch(0.29 0.05 305);
+  --sidebar-accent-foreground: oklch(0.8148 0.0819 225.8);
+  --sidebar-border: oklch(0.82 0.06 280 / 14%);
+  --sidebar-ring: oklch(0.8148 0.0819 225.8);
+
+  --brand: oklch(0.8148 0.0819 225.8);
+  --brand-muted: oklch(0.8148 0.0819 225.8 / 14%);
+  --brand-contrast: oklch(0.16 0.018 288);
+  --signal: oklch(
+    0.7 0.17 319.2
+  ); /* orchid, lifted  6.4:1 on background, 4.6:1 on signal-muted */
+  --signal-muted: oklch(0.7 0.17 319.2 / 14%);
+  --surface: oklch(0.195 0.02 288);
+  --surface-raised: oklch(0.235 0.022 288);
+  --hairline: oklch(0.82 0.06 280 / 13%);
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+  html {
+    @apply font-sans;
+    scroll-behavior: smooth;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  /* Componentry components animate aggressively by default. This is the one
+     switch that makes every page usable for anyone who asks for less motion. */
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+    /* biome-ignore-start lint/complexity/noImportantStyles: a reduced-motion
+       kill switch has to outrank inline styles written by animation libraries,
+       which is the one case !important is the correct tool. */
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+      scroll-behavior: auto !important;
+    }
+    /* biome-ignore-end lint/complexity/noImportantStyles: see above */
+  }
+
+  ::selection {
+    background: var(--brand-muted);
   }
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+@utility text-balance-heading {
+  text-wrap: balance;
+}
+
+/**
+ * Smooth open and close for a native <details>. Doing this in CSS rather than
+ * JavaScript keeps the disclosure in the DOM when it is shut, so the content
+ * stays indexable and findable with the browser's own find-in-page. Browsers
+ * without ::details-content simply snap open, which is the behaviour they had
+ * before, and the whole block sits behind a reduced-motion query.
+ */
+@media (prefers-reduced-motion: no-preference) {
+  @supports (interpolate-size: allow-keywords) and
+    (selector(::details-content)) {
+    .details-reveal {
+      interpolate-size: allow-keywords;
+    }
+
+    .details-reveal::details-content {
+      block-size: 0;
+      overflow: hidden;
+      opacity: 0;
+      transition:
+        block-size 320ms cubic-bezier(0.22, 1, 0.36, 1),
+        opacity 220ms ease,
+        content-visibility 320ms allow-discrete;
+    }
+
+    .details-reveal[open]::details-content {
+      block-size: auto;
+      opacity: 1;
+    }
+  }
 }
