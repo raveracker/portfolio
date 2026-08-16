@@ -7,8 +7,10 @@ import { cn } from "@/lib/utils";
 
 const initialState: ContactState = { status: "idle" };
 
+// iOS Safari zooms the whole page when a focused field computes under 16px,
+// so phones get text-base and the 14px sizing starts at the sm breakpoint.
 const fieldClass =
-  "w-full rounded-xl border border-hairline bg-background px-4 py-3 text-sm outline-none transition-colors placeholder:text-muted-foreground/60 focus:border-brand focus-visible:ring-2 focus-visible:ring-brand";
+  "w-full rounded-xl border border-hairline bg-background px-4 py-3 text-base outline-none transition-colors placeholder:text-muted-foreground/60 focus:border-brand focus-visible:ring-2 focus-visible:ring-brand sm:text-sm";
 
 function SubmitButton() {
   const { pending } = useFormStatus();

@@ -115,11 +115,17 @@ export function LetterCascade({
     onComplete,
   ]);
 
+  // Each match is a word plus whatever whitespace trails it.
+  const words = text.match(/\S+\s*/g) ?? [];
+
   return (
     <span
       ref={scope}
       className={cn(
-        "inline-flex cursor-pointer select-none items-center justify-center",
+        // Each letter is its own flex item, so without flex-wrap the whole
+        // string is pinned to one line and drags the layout viewport wider
+        // than the phone screen.
+        "inline-flex flex-wrap cursor-pointer select-none items-center",
         className,
       )}
       {...(triggerOnClick ? { onClick: trigger } : { onMouseEnter: trigger })}
@@ -128,44 +134,57 @@ export function LetterCascade({
           reader would spell out one character at a time. Hide the glyphs and
           announce the string once instead. */}
       <span className="sr-only">{text}</span>
-      {text.split("").map((letter, i) => (
+      {/* Words are the wrap unit. Letters stay individual flex items so the
+          stagger still runs per glyph, but they are nested inside a nowrap
+          word so a line can only break at a space. The trailing space rides
+          along inside the word it follows, which keeps a wrapped line from
+          starting with an indent. */}
+      {words.map((word, wordIndex) => (
         <span
-          key={i}
+          // Words repeat, so the index is the only stable key here.
+          key={`${word}-${wordIndex}`}
           aria-hidden="true"
-          className="relative inline-flex whitespace-pre"
-          style={{ perspective: "500px" }}
+          className="inline-flex whitespace-pre"
         >
-          {/* Front face — visible by default, tilts backward on trigger */}
-          <motion.span
-            className={cn("cascade-front inline-block", letterClassName)}
-            style={{
-              rotateX: 0,
-              y: 0,
-              transformOrigin: "bottom center",
-              backfaceVisibility: "hidden",
-            }}
-          >
-            {letter}
-          </motion.span>
+          {word.split("").map((letter, i) => (
+            <span
+              key={`${letter}-${i}`}
+              className="relative inline-flex whitespace-pre"
+              style={{ perspective: "500px" }}
+            >
+              {/* Front face — visible by default, tilts backward on trigger */}
+              <motion.span
+                className={cn("cascade-front inline-block", letterClassName)}
+                style={{
+                  rotateX: 0,
+                  y: 0,
+                  transformOrigin: "bottom center",
+                  backfaceVisibility: "hidden",
+                }}
+              >
+                {letter}
+              </motion.span>
 
-          {/* Echo face — hidden below, flips up into view on trigger */}
-          <motion.span
-            className={cn(
-              "cascade-echo absolute inset-0 inline-block",
-              letterClassName,
-            )}
-            style={{
-              rotateX: -90,
-              opacity: 0,
-              y: 6,
-              scale: 0.8,
-              filter: "blur(4px)",
-              transformOrigin: "top center",
-              backfaceVisibility: "hidden",
-            }}
-          >
-            {letter}
-          </motion.span>
+              {/* Echo face — hidden below, flips up into view on trigger */}
+              <motion.span
+                className={cn(
+                  "cascade-echo absolute inset-0 inline-block",
+                  letterClassName,
+                )}
+                style={{
+                  rotateX: -90,
+                  opacity: 0,
+                  y: 6,
+                  scale: 0.8,
+                  filter: "blur(4px)",
+                  transformOrigin: "top center",
+                  backfaceVisibility: "hidden",
+                }}
+              >
+                {letter}
+              </motion.span>
+            </span>
+          ))}
         </span>
       ))}
     </span>
