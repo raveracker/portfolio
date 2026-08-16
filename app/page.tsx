@@ -69,13 +69,16 @@ export default function HomePage() {
             <CtaLink href="/about" variant="ghost">
               Meet the person
             </CtaLink>
-            {/* Opens in the browser's own PDF viewer rather than downloading. */}
+            {/* Opens in the browser's own PDF viewer rather than downloading.
+                Prefetch is off because the target is a static file, and the
+                router's RSC prefetch for it 404s. */}
             {hasResume && (
               <CtaLink
                 href={RESUME_PATH}
                 variant="ghost"
                 target="_blank"
                 rel="noreferrer"
+                prefetch={false}
               >
                 Resume
               </CtaLink>
@@ -86,7 +89,7 @@ export default function HomePage() {
 
       {/* --------------------------------------------------------- Proof band */}
       <Section className="border-y border-hairline py-12">
-        <dl className="grid grid-cols-2 gap-x-8 gap-y-10 sm:grid-cols-3 lg:grid-cols-5">
+        <dl className="grid grid-cols-2 gap-x-8 gap-y-10 lg:grid-cols-4">
           {profile.stats.map((stat) => (
             <div key={stat.label}>
               <dt className="sr-only">{stat.label}</dt>
@@ -214,6 +217,7 @@ export default function HomePage() {
                   variant="ghost"
                   target="_blank"
                   rel="noreferrer"
+                  prefetch={false}
                 >
                   My Resume
                 </CtaLink>

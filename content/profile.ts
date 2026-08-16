@@ -28,8 +28,8 @@ export const profile = profileSchema.parse({
   ethos:
     "Learning never stops, at work or outside it. I like solving problems, but what I am really after is the moment it clicks. Engineering built that instinct. Entrepreneurship taught me to lead. Self-teaching, strategy and a lot of experimenting got me here, and is still a long way to go.",
   portrait: {
-    src: "/allan.png",
-    alt: "Allan Jeo Joseph, smiling, in a cafe strung with fairy lights",
+    src: "/allan.jpg",
+    alt: "allan profile image",
     width: 512,
     height: 512,
   },
@@ -77,12 +77,6 @@ export const profile = profileSchema.parse({
       label: "npm packages published",
       source:
         "4 public and MIT, verified on the npm registry under maintainer raveracker: figma-code-composer, @anoncitizen/core, @anoncitizen/react, @anoncitizen/contracts. The remaining 6 are private and cannot be verified from a public registry.",
-    },
-    {
-      value: "70",
-      label: "technologies used",
-      source:
-        "Distinct entries across the seven technical groups in content/skills.ts: AI and agentic systems 13, frontend 15, backend and data 8, cloud and infrastructure 12, testing and tooling 12, mobile 4, web3 6. Excludes the 8 leadership and practice entries, which are not technologies.",
     },
   ],
 });
