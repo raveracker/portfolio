@@ -52,7 +52,8 @@ export default function AboutPage() {
             alt={profile.portrait.alt}
             width={profile.portrait.width}
             height={profile.portrait.height}
-            priority
+            loading="eager"
+            fetchPriority="high"
             sizes="(min-width: 768px) 24rem, 100vw"
             className="mx-auto aspect-square w-full max-w-sm rounded-2xl border border-hairline object-cover"
           />
