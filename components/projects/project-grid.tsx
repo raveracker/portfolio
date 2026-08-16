@@ -85,7 +85,7 @@ function OwnerFilter({
             aria-pressed={isActive}
             onClick={() => onSelect(owner)}
             className={cn(
-              "relative rounded-full border px-3 py-1.5 font-mono text-xs transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand",
+              "relative inline-flex items-center justify-center rounded-full border px-3 py-1.5 font-mono text-xs transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand pointer-coarse:min-h-11",
               isActive
                 ? "border-brand text-brand-contrast"
                 : "border-hairline text-muted-foreground hover:border-brand hover:text-foreground",

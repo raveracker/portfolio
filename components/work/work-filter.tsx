@@ -37,7 +37,9 @@ export function WorkFilter({
             aria-pressed={isActive}
             onClick={() => onSelect(filter.value)}
             className={cn(
-              "relative rounded-full border px-3.5 py-1.5 text-sm transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand",
+              // Chips sit a gap apart, so touch devices get real height rather
+              // than an overlay hit area that would spill into the next row.
+              "relative inline-flex items-center justify-center rounded-full border px-3.5 py-1.5 text-sm transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand pointer-coarse:min-h-11",
               isActive
                 ? "border-foreground text-background"
                 : "border-hairline text-muted-foreground hover:border-brand hover:text-foreground",

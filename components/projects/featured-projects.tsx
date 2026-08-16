@@ -78,7 +78,7 @@ export function FeaturedProjects({ projects }: { projects: Project[] }) {
                     href={project.repo}
                     target="_blank"
                     rel="noreferrer"
-                    className="inline-flex items-center gap-1.5 text-sm font-medium text-brand transition-colors hover:text-signal focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand"
+                    className="tap-safe inline-flex items-center gap-1.5 text-sm font-medium text-brand transition-colors hover:text-signal focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand"
                   >
                     Source <ExternalLink className="size-3.5" />
                   </a>

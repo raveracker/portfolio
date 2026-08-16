@@ -34,7 +34,7 @@ export function SiteFooter() {
                   rel="noreferrer"
                   aria-label={link.label}
                   title={link.label}
-                  className="inline-flex size-9 items-center justify-center rounded-full text-muted-foreground transition-colors hover:bg-surface hover:text-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand"
+                  className="inline-flex size-9 items-center justify-center rounded-full text-muted-foreground transition-colors hover:bg-surface hover:text-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand pointer-coarse:size-11"
                 >
                   {Icon ? (
                     <Icon className="size-[1.125rem]" />

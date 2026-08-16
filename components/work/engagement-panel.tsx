@@ -77,7 +77,7 @@ export function EngagementPanel({ engagement }: { engagement: Engagement }) {
         {engagement.caseStudy && (
           <Link
             href={`/work/${engagement.slug}`}
-            className="inline-flex items-center gap-1.5 text-sm font-medium text-brand transition-colors hover:text-signal focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand"
+            className="tap-safe inline-flex items-center gap-1.5 text-sm font-medium text-brand transition-colors hover:text-signal focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand"
           >
             Read the case study <ArrowUpRight className="size-3.5" />
           </Link>

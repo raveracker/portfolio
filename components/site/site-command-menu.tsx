@@ -63,7 +63,7 @@ export function SiteCommandMenu() {
       brandName={profile.shortName}
       placeholder="Search work, projects, pages..."
       triggerLabel="Search"
-      triggerClassName="h-9 md:w-44 lg:w-56"
+      triggerClassName="h-9 md:w-44 lg:w-56 pointer-coarse:h-11"
     />
   );
 }

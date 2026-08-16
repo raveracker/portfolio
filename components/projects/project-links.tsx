@@ -13,7 +13,7 @@ export function SourceLine({ project }: { project: Project }) {
           href={project.repo}
           target="_blank"
           rel="noreferrer"
-          className="inline-flex items-center gap-1.5 font-medium text-brand transition-colors hover:text-signal focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand"
+          className="tap-safe inline-flex items-center gap-1.5 font-medium text-brand transition-colors hover:text-signal focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand"
         >
           Source <ExternalLink className="size-3" />
         </a>
@@ -46,7 +46,7 @@ export function PackageLinks({ packages }: { packages: string[] }) {
       href={`https://www.npmjs.com/package/${pkg}`}
       target="_blank"
       rel="noreferrer"
-      className="inline-flex items-center gap-1.5 text-sm text-muted-foreground transition-colors hover:text-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand"
+      className="tap-safe inline-flex items-center gap-1.5 text-sm text-muted-foreground transition-colors hover:text-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand"
     >
       <Package className="size-3.5" /> {pkg}
     </a>

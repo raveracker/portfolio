@@ -194,7 +194,7 @@ export function ContributionGraph({
             aria-pressed={entry.year === selected}
             onClick={() => setSelected(entry.year)}
             className={cn(
-              "rounded-lg px-2.5 py-1 font-mono text-xs transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand",
+              "inline-flex items-center justify-center rounded-lg px-2.5 py-1 font-mono text-xs transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand pointer-coarse:min-h-11",
               entry.year === selected
                 ? "bg-brand text-brand-contrast"
                 : "text-muted-foreground hover:bg-surface-raised hover:text-foreground",

@@ -76,7 +76,7 @@ export default function ContactPage() {
                         link.href.startsWith("mailto:") ? undefined : "_blank"
                       }
                       rel="noreferrer"
-                      className="inline-flex items-center gap-1 transition-colors hover:text-brand focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand"
+                      className="tap-safe inline-flex items-center gap-1 transition-colors hover:text-brand focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand"
                     >
                       {link.handle ?? link.href}
                       <ArrowUpRight className="size-3.5" />

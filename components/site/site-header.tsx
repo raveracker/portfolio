@@ -9,7 +9,7 @@ export function SiteHeader() {
       <div className="mx-auto flex h-14 max-w-6xl items-center gap-3 px-5 sm:px-8">
         <Link
           href="/"
-          className="font-mono text-sm font-medium tracking-tight focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand"
+          className="tap-safe font-mono text-sm font-medium tracking-tight focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand"
         >
           {profile.shortName.toLowerCase()}
           <span className="text-brand">.</span>

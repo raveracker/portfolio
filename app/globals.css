@@ -235,6 +235,29 @@
 }
 
 /**
+ * Grows a control's touch area to 44x44 without touching its painted box or
+ * the surrounding layout, for the cases where padding the element would
+ * visibly fatten it. Only fires on coarse pointers, so mouse users keep the
+ * tight hit boxes and adjacent targets cannot start overlapping on desktop.
+ * Use the real size instead when the element has a neighbour within 44px.
+ */
+@utility tap-safe {
+  @media (pointer: coarse) {
+    position: relative;
+
+    &::after {
+      content: "";
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      translate: -50% -50%;
+      width: max(100%, 44px);
+      height: max(100%, 44px);
+    }
+  }
+}
+
+/**
  * Smooth open and close for a native <details>. Doing this in CSS rather than
  * JavaScript keeps the disclosure in the DOM when it is shut, so the content
  * stays indexable and findable with the browser's own find-in-page. Browsers
