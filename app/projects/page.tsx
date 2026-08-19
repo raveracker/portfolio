@@ -9,7 +9,7 @@ import { featuredProjects, otherProjects } from "@/content/projects";
 import { buildPayload } from "@/lib/contributions";
 
 /** The account the calendar is built from. Only this one is kept current. */
-const GITHUB_USERNAME = "raveracker";
+const GITHUB_USERNAME = "punkadillo";
 
 export const metadata: Metadata = {
   title: "Projects",

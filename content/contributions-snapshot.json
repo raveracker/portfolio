@@ -1,8 +1,8 @@
 {
-  "capturedAt": "2026-08-15",
+  "capturedAt": "2026-08-19",
   "accounts": {
-    "raveracker": {
-      "login": "raveracker",
+    "punkadillo": {
+      "login": "punkadillo",
       "createdAt": "2019-03-08T12:57:07Z",
       "years": {
         "2019": {
@@ -121,16 +121,16 @@
           ]
         },
         "2022": {
-          "total": 33,
-          "commits": 4,
+          "total": 28,
+          "commits": 0,
           "pullRequests": 0,
           "reviews": 0,
           "issues": 0,
-          "repositories": 5,
+          "repositories": 4,
           "restricted": 24,
           "days": [
             ["2022-01-14", 3],
-            ["2022-03-14", 8],
+            ["2022-03-14", 3],
             ["2022-03-29", 1],
             ["2022-05-02", 2],
             ["2022-05-11", 1],
@@ -360,13 +360,13 @@
           ]
         },
         "2026": {
-          "total": 615,
-          "commits": 82,
-          "pullRequests": 26,
+          "total": 633,
+          "commits": 97,
+          "pullRequests": 27,
           "reviews": 0,
           "issues": 117,
-          "repositories": 10,
-          "restricted": 380,
+          "repositories": 11,
+          "restricted": 381,
           "days": [
             ["2026-03-10", 3],
             ["2026-03-15", 1],
@@ -378,7 +378,6 @@
             ["2026-05-30", 1],
             ["2026-06-01", 6],
             ["2026-06-02", 3],
-            ["2026-06-04", 1],
             ["2026-06-06", 1],
             ["2026-06-07", 1],
             ["2026-06-08", 11],
@@ -418,12 +417,16 @@
             ["2026-08-08", 7],
             ["2026-08-12", 1],
             ["2026-08-13", 112],
-            ["2026-08-14", 1]
+            ["2026-08-14", 1],
+            ["2026-08-15", 1],
+            ["2026-08-16", 14],
+            ["2026-08-17", 2],
+            ["2026-08-18", 2]
           ]
         }
       },
       "organisationCommits": {
-        "total": 170,
+        "total": 172,
         "repositories": {
           "proceduretech/e-raktkosh": {
             "commits": 2,
@@ -446,7 +449,7 @@
             "isPrivate": true
           },
           "punk-raven/dotnix": {
-            "commits": 27,
+            "commits": 29,
             "isPrivate": false
           },
           "punk-raven/lawman-llm": {
@@ -470,12 +473,12 @@
     }
   },
   "lifetime": {
-    "total": 1312,
-    "restricted": 1003,
-    "commits": 127,
-    "pullRequests": 26,
+    "total": 1325,
+    "restricted": 1004,
+    "commits": 138,
+    "pullRequests": 27,
     "reviews": 0,
-    "activeDays": 328
+    "activeDays": 331
   },
   "unrecoverable": {
     "allan-healthkart": {
@@ -484,7 +487,7 @@
       "note": "BrightlifeCare work account. Contributions to the organisation are gone: GitHub un-attributes a user from an org private repositories once they are removed, permanently. Verified 2026-08-15 - hasAnyContributions is false for 2025 and 2026, public orgs list is empty, public events empty, and the brightlifecare org is not publicly visible.",
       "recoverable": {
         "commits": 22,
-        "repository": "raveracker/anoncitizen",
+        "repository": "punkadillo/anoncitizen",
         "dates": "2026-03-14 to 2026-03-15"
       },
       "stillPossible": "Authenticating as allan-healthkart and re-running the snapshot script may surface a restrictedContributionsCount for the org period. Aggregate only, never per-repository, and likely zero if the removal already took effect."

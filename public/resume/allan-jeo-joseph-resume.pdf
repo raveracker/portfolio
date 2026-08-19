@@ -1,176 +1,1110 @@
-%PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%PDF-1.3
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R
+/PageMode /UseNone
+/Pages 2 0 R
+/Type /Catalog
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Count 3
+/Kids [ 3 0 R 11 0 R 14 0 R ]
+/Type /Pages
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Annots [ 4 0 R 5 0 R 6 0 R ]
+/Contents 7 0 R
+/MediaBox [ 0 0 612 792 ]
+/Parent 2 0 R
+/Resources <<
+/Font 8 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
 >>
 endobj
 4 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (mailto:allanjeo95@gmail.com)
->> /Border [ 0 0 0 ] /Rect [ 156.8924 703.56 250.0792 714.6 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (mailto\072allanjeo95\100gmail\056com)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 241.3852 703.56 334.572 714.6 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 5 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://linkedin.com/in/allanjeo)
->> /Border [ 0 0 0 ] /Rect [ 262.7016 703.56 357.802 714.6 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057linkedin\056com\057in\057allanjeo)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 347.1944 703.56 442.2948 714.6 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 6 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/raveracker)
->> /Border [ 0 0 0 ] /Rect [ 370.4244 703.56 461.4308 714.6 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057punkadillo)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 454.9172 703.56 543.8904 714.6 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 7 0 obj
 <<
-/Annots [ 4 0 R 5 0 R 6 0 R ] /Contents 18 0 R /MediaBox [ 0 0 612 792 ] /Parent 17 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 
-  /Trans <<
-
->> /Type /Page
+/Length 9486
 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 45.6 731.6 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 3 Tm /F2 19 Tf 22 TL (Allan Jeo Joseph) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 716.6 cm
+q
+BT 1 0 0 1 0 2.8 Tm 12 TL /F1 9.2 Tf .066667 .066667 .066667 rg (Principal Software Engineer  ) Tj (|) Tj (  Agentic AI, RAG & MCP  ) Tj (|) Tj (  Full-Stack Engineering) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 702.6 cm
+q
+.066667 .066667 .066667 RG
+n 195.7852 1.65 m 288.972 1.65 l S
+n 301.5944 1.65 m 396.6948 1.65 l S
+n 409.3172 1.65 m 498.2904 1.65 l S
+BT 1 0 0 1 0 2.8 Tm 12 TL /F1 9.2 Tf .066667 .066667 .066667 rg (Mumbai, India \(Remote\)  ) Tj (|) Tj (  +91 88666 86766  ) Tj (|) Tj (  ) Tj (allanjeo95@gmail.com) Tj (  ) Tj (|) Tj (  ) Tj (linkedin.com/in/allanjeo) Tj (  ) Tj (|) Tj (  ) Tj (github.com/punkadillo) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 679.6 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 2 Tm /F2 11 Tf 13 TL (PROFESSIONAL SUMMARY) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 676.9 cm
+q
+.7 w
+1 J
+.533333 .533333 .533333 RG
+n 0 0 m 520.8 0 l S
+Q
+Q
+q
+1 0 0 1 45.6 561.3 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 102.3 Tm /F1 9.3 Tf 12.4 TL 1.503641 Tw (Engineer at heart, builder by obsession - I love the craft, and I love the problem more than the stack. 6+ years shipping) Tj T* 0 Tw 1.5345 Tw (production-grade applications, now operating as a Principal Engineer at the intersection of software engineering and AI. I) Tj T* 0 Tw .833679 Tw (design agentic architectures, RAG pipelines, and MCP-powered tool ecosystems that autonomously build, test, commit, and) Tj T* 0 Tw .79205 Tw (ship - collapsing what used to take teams weeks into hours. Deep full-stack foundation across React, Next.js, React Native,) Tj T* 0 Tw 2.533586 Tw (TypeScript, Node.js, Python, MongoDB, and Infra \(GCP, AWS\), with proven ownership of design systems, multi-brand) Tj T* 0 Tw 2.38545 Tw (architecture, and mentoring engineers. Research-driven - I bring new paradigms into production daily, from multi-agent) Tj T* 0 Tw .6479 Tw (orchestration to zero-knowledge proof systems, and I give much of it back as open source: MIT-licensed npm packages and) Tj T* 0 Tw .480943 Tw (developer tooling I publish and maintain. I think like a founder: align fast to vision, optimize for velocity, and treat every sprint) Tj T* 0 Tw (like it matters.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 538.3 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 2 Tm /F2 11 Tf 13 TL (PROFESSIONAL EXPERIENCE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 535.6 cm
+q
+.7 w
+1 J
+.533333 .533333 .533333 RG
+n 0 0 m 520.8 0 l S
+Q
+Q
+q
+1 0 0 1 45.6 517 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 2.4 Tm /F2 10.2 Tf 12.6 TL (Principal Software Engineer - Procedure Tech) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 505.5 cm
+q
+BT 1 0 0 1 0 2.5 Tm 11.5 TL /F1 9 Tf .066667 .066667 .066667 rg (Mumbai, India \(Remote\)  ) Tj (|) Tj (  July 2021 \226 Present) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 491.1 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 3.1 Tm /F1 9.3 Tf 12.4 TL (Lead AI-native development, agentic architecture design, and full-stack platform engineering across multiple client products.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 474.1 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 2.6 Tm /F2 9.4 Tf 12 TL (RoomAngel Foundation \(ValueVerse.co\) - Forward Deployed Engineer | Product: Hive \(Current\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 460.9 cm
+q
+BT 1 0 0 1 1 2.9 Tm /F1 10 Tf 12 TL .066667 .066667 .066667 rg (\177) Tj ET
+.066667 .066667 .066667 rg
+BT 1 0 0 1 11 2.9 Tm /F1 9.3 Tf 12.2 TL (Build AI-native infrastructure and agentic harnesses for hospitality operations across both frontend and backend.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 447.3 cm
+q
+BT 1 0 0 1 1 2.9 Tm /F1 10 Tf 12 TL .066667 .066667 .066667 rg (\177) Tj ET
+.066667 .066667 .066667 rg
+BT 1 0 0 1 11 2.9 Tm /F1 9.3 Tf 12.2 TL (Integrate third-party hospitality platforms \(Opera Cloud, MyCloud\) with full multi-tenancy support.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 433.7 cm
+q
+BT 1 0 0 1 1 2.9 Tm /F1 10 Tf 12 TL .066667 .066667 .066667 rg (\177) Tj ET
+.066667 .066667 .066667 rg
+BT 1 0 0 1 11 2.9 Tm /F1 9.3 Tf 12.2 TL (Delivered features that surface hotel revenue and revenue-center insights through a natural-language chat interface.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 420.1 cm
+q
+BT 1 0 0 1 1 2.9 Tm /F1 10 Tf 12 TL .066667 .066667 .066667 rg (\177) Tj ET
+.066667 .066667 .066667 rg
+BT 1 0 0 1 11 2.9 Tm /F1 9.3 Tf 12.2 TL (Built custom agents implementing agentic looping to automate repetitive chat-driven tasks.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 394.3 cm
+q
+BT 1 0 0 1 1 15.1 Tm /F1 10 Tf 12 TL .066667 .066667 .066667 rg (\177) Tj ET
+.066667 .066667 .066667 rg
+BT 1 0 0 1 11 15.1 Tm /F1 9.3 Tf 12.2 TL (Authored custom agents, skills, hooks, and orchestration so a single command implements an entire feature across) Tj T* (backend, frontend, and infrastructure.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 380.7 cm
+q
+BT 1 0 0 1 1 2.9 Tm /F1 10 Tf 12 TL .066667 .066667 .066667 rg (\177) Tj ET
+BT 1 0 0 1 11 2.9 Tm 12.2 TL /F1 9.3 Tf .066667 .066667 .066667 rg (Reduced feature delivery from weeks to 2) Tj (\226) Tj (3 days at 98% accuracy with zero rework.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 356.5 cm
+q
+BT 1 0 0 1 11 13.9 Tm 11.4 TL /F2 8.9 Tf .066667 .066667 .066667 rg (Tech:) Tj /F1 8.9 Tf ( Agentic AI, MCP, Multi-Agent Orchestration, RAG, Claude Code, Python \(FastAPI\), TypeScript, Next.js, React, Node.js,) Tj T* (MongoDB, Cloud Infrastructure, Opera Cloud API, MyCloud API, Multi-Tenancy) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 339.5 cm
+q
+BT 1 0 0 1 0 2.6 Tm 12 TL /F2 9.4 Tf .066667 .066667 .066667 rg (BrightlifeCare \(HealthKart\) - System Architecture & Design System Migration) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 327 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 2.5 Tm /F1 9 Tf 11.5 TL (Products: HealthKart, MuscleBlaze, Gritzo, FuelOne, TrueBasics, HK Vitals, Ronnie Coleman, Incredio, Smash) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 312.8 cm
+q
+BT 1 0 0 1 1 2.9 Tm /F1 10 Tf 12 TL .066667 .066667 .066667 rg (\177) Tj ET
+.066667 .066667 .066667 rg
+BT 1 0 0 1 11 2.9 Tm /F1 9.3 Tf 12.2 TL (Architected a multi-brand React component library with dynamic theming across 9 product lines.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 299.2 cm
+q
+BT 1 0 0 1 1 2.9 Tm /F1 10 Tf 12 TL .066667 .066667 .066667 rg (\177) Tj ET
+.066667 .066667 .066667 rg
+BT 1 0 0 1 11 2.9 Tm /F1 9.3 Tf 12.2 TL (Built on atomic design principles with Tailwind CSS, Storybook documentation, and full accessibility \(a11y\) compliance.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 285.6 cm
+q
+BT 1 0 0 1 1 2.9 Tm /F1 10 Tf 12 TL .066667 .066667 .066667 rg (\177) Tj ET
+.066667 .066667 .066667 rg
+BT 1 0 0 1 11 2.9 Tm /F1 9.3 Tf 12.2 TL (Designed RAG pipelines, multi-agent orchestration, and MCP integrations to accelerate component development.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 259.8 cm
+q
+BT 1 0 0 1 1 15.1 Tm /F1 10 Tf 12 TL .066667 .066667 .066667 rg (\177) Tj ET
+.066667 .066667 .066667 rg
+BT 1 0 0 1 11 15.1 Tm /F1 9.3 Tf 12.2 TL (Authored custom agent skills \(.claude/skills/\) encoding architectural patterns, coding standards, and domain knowledge,) Tj T* (enabling AI agents to generate context-aware, production-ready code with minimal human intervention.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 234 cm
+q
+BT 1 0 0 1 1 15.1 Tm /F1 10 Tf 12 TL .066667 .066667 .066667 rg (\177) Tj ET
+.066667 .066667 .066667 rg
+BT 1 0 0 1 11 15.1 Tm /F1 9.3 Tf 12.2 TL (Implemented guardrails and a knowledge dependency graph to enforce architectural consistency, reducing token usage by) Tj T* (70%.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 220.4 cm
+q
+BT 1 0 0 1 1 2.9 Tm /F1 10 Tf 12 TL .066667 .066667 .066667 rg (\177) Tj ET
+.066667 .066667 .066667 rg
+BT 1 0 0 1 11 2.9 Tm /F1 9.3 Tf 12.2 TL (Engineered a plug-and-play design system, eliminating per-product manual overrides across all 9 products.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 206.8 cm
+q
+BT 1 0 0 1 1 2.9 Tm /F1 10 Tf 12 TL .066667 .066667 .066667 rg (\177) Tj ET
+.066667 .066667 .066667 rg
+BT 1 0 0 1 11 2.9 Tm /F1 9.3 Tf 12.2 TL (Optimized Core Web Vitals, improving page load times, SEO, and Google ranking signals.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 193.2 cm
+q
+BT 1 0 0 1 1 2.9 Tm /F1 10 Tf 12 TL .066667 .066667 .066667 rg (\177) Tj ET
+.066667 .066667 .066667 rg
+BT 1 0 0 1 11 2.9 Tm /F1 9.3 Tf 12.2 TL (Led and mentored developers on the shared architecture, with unit and end-to-end test coverage.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 169 cm
+q
+BT 1 0 0 1 11 13.9 Tm 11.4 TL /F2 8.9 Tf .066667 .066667 .066667 rg (Tech:) Tj /F1 8.9 Tf ( React, TypeScript, Tailwind CSS, Storybook, Vitest, Playwright, RAG Pipelines, MCP, Multi-Agent Orchestration, Agent) Tj T* (Skills, Claude Code, Atomic Design, Core Web Vitals) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 152 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 2.6 Tm /F2 9.4 Tf 12 TL (Pine Labs - Payment Services) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 126.6 cm
+q
+BT 1 0 0 1 1 15.1 Tm /F1 10 Tf 12 TL .066667 .066667 .066667 rg (\177) Tj ET
+.066667 .066667 .066667 rg
+BT 1 0 0 1 11 15.1 Tm /F1 9.3 Tf 12.2 TL (Implemented a white-labelling feature supporting partner theming \(CITI Bank\), reducing theming setup time through a) Tj T* (standardized global SCSS architecture.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 113 cm
+q
+BT 1 0 0 1 1 2.9 Tm /F1 10 Tf 12 TL .066667 .066667 .066667 rg (\177) Tj ET
+.066667 .066667 .066667 rg
+BT 1 0 0 1 11 2.9 Tm /F1 9.3 Tf 12.2 TL (Mentored a junior engineer and managed execution of incoming features across sprints.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 100.2 cm
+q
+BT 1 0 0 1 11 2.5 Tm 11.4 TL /F2 8.9 Tf .066667 .066667 .066667 rg (Tech:) Tj /F1 8.9 Tf ( React, SCSS, JavaScript, CSS Custom Properties, Git) Tj T* ET
+Q
+Q
+ 
+
+endstream
 endobj
 8 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://github.com/raveracker/figma-code-composer)
->> /Border [ 0 0 0 ] /Rect [ 156.849 119.12 358.479 130.4 ] /Subtype /Link /Type /Annot
+/F1 9 0 R
+/F2 10 0 R
 >>
 endobj
 9 0 obj
 <<
-/Annots [ 8 0 R ] /Contents 19 0 R /MediaBox [ 0 0 612 792 ] /Parent 17 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 
-  /Trans <<
-
->> /Type /Page
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 10 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://github.com/raveracker/anoncitizen)
->> /Border [ 0 0 0 ] /Rect [ 108.7868 662.92 263.9338 674.2 ] /Subtype /Link /Type /Annot
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 11 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://github.com/raveracker/eri-tax-filing-agent)
->> /Border [ 0 0 0 ] /Rect [ 145.3622 568.32 330.796 579.6 ] /Subtype /Link /Type /Annot
+/Annots [ 12 0 R ]
+/Contents 13 0 R
+/MediaBox [ 0 0 612 792 ]
+/Parent 2 0 R
+/Resources <<
+/Font 8 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
 >>
 endobj
 12 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/punk-raven/dotnix)
->> /Border [ 0 0 0 ] /Rect [ 217.4602 485.92 352.2092 497.2 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057punkadillo\057figma\055code\055composer)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 156.849 119.12 357.9338 130.4 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 13 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://github.com/raveracker/fraudvisor)
->> /Border [ 0 0 0 ] /Rect [ 102.5358 369.12 251.9394 380.4 ] /Subtype /Link /Type /Annot
+/Length 10916
 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 45.6 741.6 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 2.6 Tm /F2 9.4 Tf 12 TL (Bitespeed - Multichannel Marketing for Shopify Brands) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 716.2 cm
+q
+BT 1 0 0 1 1 15.1 Tm /F1 10 Tf 12 TL .066667 .066667 .066667 rg (\177) Tj ET
+.066667 .066667 .066667 rg
+BT 1 0 0 1 11 15.1 Tm /F1 9.3 Tf 12.2 TL (Built a Web Push and Mobile Push Notification service end-to-end on AWS Serverless, handling broadcast notifications and) Tj T* (webhooks at scale.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 702.6 cm
+q
+BT 1 0 0 1 1 2.9 Tm /F1 10 Tf 12 TL .066667 .066667 .066667 rg (\177) Tj ET
+.066667 .066667 .066667 rg
+BT 1 0 0 1 11 2.9 Tm /F1 9.3 Tf 12.2 TL (Engineered multi-vendor configuration handling and cron-based template fetching for broadcast messaging.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 689 cm
+q
+BT 1 0 0 1 1 2.9 Tm /F1 10 Tf 12 TL .066667 .066667 .066667 rg (\177) Tj ET
+.066667 .066667 .066667 rg
+BT 1 0 0 1 11 2.9 Tm /F1 9.3 Tf 12.2 TL (Created a React Native mobile SDK for FCM push notifications on the Shopify mobile app.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 675.4 cm
+q
+BT 1 0 0 1 1 2.9 Tm /F1 10 Tf 12 TL .066667 .066667 .066667 rg (\177) Tj ET
+.066667 .066667 .066667 rg
+BT 1 0 0 1 11 2.9 Tm /F1 9.3 Tf 12.2 TL (Developed a Lambda Authorizer securing all REST and Lambda API endpoints.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 661.8 cm
+q
+BT 1 0 0 1 1 2.9 Tm /F1 10 Tf 12 TL .066667 .066667 .066667 rg (\177) Tj ET
+.066667 .066667 .066667 rg
+BT 1 0 0 1 11 2.9 Tm /F1 9.3 Tf 12.2 TL (Built a Postmaster tool for automated domain verification in email broadcast workflows.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 649 cm
+q
+BT 1 0 0 1 11 2.5 Tm 11.4 TL /F2 8.9 Tf .066667 .066667 .066667 rg (Tech:) Tj /F1 8.9 Tf ( AWS Lambda, Serverless Framework, React Native, FCM, Node.js, Cron, REST APIs, Shopify API) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 632 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 2.6 Tm /F2 9.4 Tf 12 TL (CommandK - Secrets Manager \(Cybersecurity\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 618.8 cm
+q
+BT 1 0 0 1 1 2.9 Tm /F1 10 Tf 12 TL .066667 .066667 .066667 rg (\177) Tj ET
+.066667 .066667 .066667 rg
+BT 1 0 0 1 11 2.9 Tm /F1 9.3 Tf 12.2 TL (Built reusable frontend components for the Secrets Manager platform.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 605.2 cm
+q
+BT 1 0 0 1 1 2.9 Tm /F1 10 Tf 12 TL .066667 .066667 .066667 rg (\177) Tj ET
+.066667 .066667 .066667 rg
+BT 1 0 0 1 11 2.9 Tm /F1 9.3 Tf 12.2 TL (Created a JSON-driven dynamic form generator with auto-generated validations via a custom transformer.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 591.6 cm
+q
+BT 1 0 0 1 1 2.9 Tm /F1 10 Tf 12 TL .066667 .066667 .066667 rg (\177) Tj ET
+.066667 .066667 .066667 rg
+BT 1 0 0 1 11 2.9 Tm /F1 9.3 Tf 12.2 TL (Implemented Playwright end-to-end testing in Docker for automated regression coverage.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 578.8 cm
+q
+BT 1 0 0 1 11 2.5 Tm 11.4 TL /F2 8.9 Tf .066667 .066667 .066667 rg (Tech:) Tj /F1 8.9 Tf ( React, TypeScript, Playwright, Docker, JSON Schema) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 561.8 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 2.6 Tm /F2 9.4 Tf 12 TL (Paytm - Bank Statement Analysis, Free Credit Score, E-Raktkosh, Internal Tools) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 548.6 cm
+q
+BT 1 0 0 1 1 2.9 Tm /F1 10 Tf 12 TL .066667 .066667 .066667 rg (\177) Tj ET
+.066667 .066667 .066667 rg
+BT 1 0 0 1 11 2.9 Tm /F1 9.3 Tf 12.2 TL (Owned frontend development for Bank Statement Analysis and Free Credit Score, managing a team of 3 developers.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 535 cm
+q
+BT 1 0 0 1 1 2.9 Tm /F1 10 Tf 12 TL .066667 .066667 .066667 rg (\177) Tj ET
+.066667 .066667 .066667 rg
+BT 1 0 0 1 11 2.9 Tm /F1 9.3 Tf 12.2 TL (Resolved performance bottlenecks, improving application scalability and load times.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 521.4 cm
+q
+BT 1 0 0 1 1 2.9 Tm /F1 10 Tf 12 TL .066667 .066667 .066667 rg (\177) Tj ET
+.066667 .066667 .066667 rg
+BT 1 0 0 1 11 2.9 Tm /F1 9.3 Tf 12.2 TL (Built the E-Raktkosh mini app \(government blood donation platform\) end-to-end as sole developer.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 507.8 cm
+q
+BT 1 0 0 1 1 2.9 Tm /F1 10 Tf 12 TL .066667 .066667 .066667 rg (\177) Tj ET
+.066667 .066667 .066667 rg
+BT 1 0 0 1 11 2.9 Tm /F1 9.3 Tf 12.2 TL (Shipped bug fixes and new features on Paytm's internal admin panel.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 495 cm
+q
+BT 1 0 0 1 11 2.5 Tm 11.4 TL /F2 8.9 Tf .066667 .066667 .066667 rg (Tech:) Tj /F1 8.9 Tf ( React, JavaScript, HTML, CSS, REST APIs, Performance Optimization) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 478 cm
+q
+BT 1 0 0 1 0 2.6 Tm 12 TL /F2 9.4 Tf .066667 .066667 .066667 rg (Treebo Hotels - Hotel Superhero \(Hotel & Restaurant Management\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 464.8 cm
+q
+BT 1 0 0 1 1 2.9 Tm /F1 10 Tf 12 TL .066667 .066667 .066667 rg (\177) Tj ET
+.066667 .066667 .066667 rg
+BT 1 0 0 1 11 2.9 Tm /F1 9.3 Tf 12.2 TL (Implemented frontend features and bug fixes on the POS system.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 451.2 cm
+q
+BT 1 0 0 1 1 2.9 Tm /F1 10 Tf 12 TL .066667 .066667 .066667 rg (\177) Tj ET
+.066667 .066667 .066667 rg
+BT 1 0 0 1 11 2.9 Tm /F1 9.3 Tf 12.2 TL (Built a thermal printer integration proof of concept using WebSockets with multi-printer network configuration.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 438.4 cm
+q
+BT 1 0 0 1 11 2.5 Tm 11.4 TL /F2 8.9 Tf .066667 .066667 .066667 rg (Tech:) Tj /F1 8.9 Tf ( React, JavaScript, WebSockets, Thermal Printer SDK, POS Systems) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 419.8 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 2.4 Tm /F2 10.2 Tf 12.6 TL (Senior Mobile Development Engineer - DocMyDoc) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 408.3 cm
+q
+BT 1 0 0 1 0 2.5 Tm 11.5 TL /F1 9 Tf .066667 .066667 .066667 rg (Bengaluru, India  ) Tj (|) Tj (  November 2020 \226 June 2021) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 381.9 cm
+q
+BT 1 0 0 1 1 15.1 Tm /F1 10 Tf 12 TL .066667 .066667 .066667 rg (\177) Tj ET
+.066667 .066667 .066667 rg
+BT 1 0 0 1 11 15.1 Tm /F1 9.3 Tf 12.2 TL (Developed and deployed the iOS app to production and executed a full UI refresh across Android and iOS from Figma) Tj T* (designs.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 368.3 cm
+q
+BT 1 0 0 1 1 2.9 Tm /F1 10 Tf 12 TL .066667 .066667 .066667 rg (\177) Tj ET
+.066667 .066667 .066667 rg
+BT 1 0 0 1 11 2.9 Tm /F1 9.3 Tf 12.2 TL (Built a custom web viewer component for unified image and PDF document viewing.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 354.7 cm
+q
+BT 1 0 0 1 1 2.9 Tm /F1 10 Tf 12 TL .066667 .066667 .066667 rg (\177) Tj ET
+.066667 .066667 .066667 rg
+BT 1 0 0 1 11 2.9 Tm /F1 9.3 Tf 12.2 TL (Delivered key features including a COVID-19 vaccination tracker, vitals tracker, document upload, and action sliders.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 341.1 cm
+q
+BT 1 0 0 1 1 2.9 Tm /F1 10 Tf 12 TL .066667 .066667 .066667 rg (\177) Tj ET
+.066667 .066667 .066667 rg
+BT 1 0 0 1 11 2.9 Tm /F1 9.3 Tf 12.2 TL (Owned release management \(build, test, deploy\) for both platforms with regression test coverage.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 328.3 cm
+q
+BT 1 0 0 1 11 2.5 Tm 11.4 TL /F2 8.9 Tf .066667 .066667 .066667 rg (Tech:) Tj /F1 8.9 Tf ( React Native, JavaScript, iOS \(Swift, Xcode\), Android, Figma, Firebase, PDF.js, Regression Testing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 309.7 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 2.4 Tm /F2 10.2 Tf 12.6 TL (Technical Associate - Trabacus Technologies Pvt Ltd) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 298.2 cm
+q
+BT 1 0 0 1 0 2.5 Tm 11.5 TL /F1 9 Tf .066667 .066667 .066667 rg (Bengaluru, India  ) Tj (|) Tj (  March 2020 \226 November 2020) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 284 cm
+q
+BT 1 0 0 1 1 2.9 Tm /F1 10 Tf 12 TL .066667 .066667 .066667 rg (\177) Tj ET
+.066667 .066667 .066667 rg
+BT 1 0 0 1 11 2.9 Tm /F1 9.3 Tf 12.2 TL (Built an Instagram Story clone for the social media module integrated with the BookNGogo travel platform.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 270.4 cm
+q
+BT 1 0 0 1 1 2.9 Tm /F1 10 Tf 12 TL .066667 .066667 .066667 rg (\177) Tj ET
+.066667 .066667 .066667 rg
+BT 1 0 0 1 11 2.9 Tm /F1 9.3 Tf 12.2 TL (Developed cross-platform mobile apps in React Native using Redux, React Navigation, and gesture animations.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 256.8 cm
+q
+BT 1 0 0 1 1 2.9 Tm /F1 10 Tf 12 TL .066667 .066667 .066667 rg (\177) Tj ET
+.066667 .066667 .066667 rg
+BT 1 0 0 1 11 2.9 Tm /F1 9.3 Tf 12.2 TL (Managed release builds for Android and TestFlight \(iOS\); diagnosed and fixed performance bottlenecks.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 244 cm
+q
+BT 1 0 0 1 11 2.5 Tm 11.4 TL /F2 8.9 Tf .066667 .066667 .066667 rg (Tech:) Tj /F1 8.9 Tf ( React Native, Redux, React Navigation, JavaScript, Android, iOS \(TestFlight\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 225.4 cm
+q
+BT 1 0 0 1 0 2.4 Tm 12.6 TL /F2 10.2 Tf .066667 .066667 .066667 rg (Project Manager & React Native Developer - Adinav Labs Private Limited) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 213.9 cm
+q
+BT 1 0 0 1 0 2.5 Tm 11.5 TL /F1 9 Tf .066667 .066667 .066667 rg (Bengaluru, India  ) Tj (|) Tj (  April 2019 \226 March 2020) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 187.5 cm
+q
+BT 1 0 0 1 1 15.1 Tm /F1 10 Tf 12 TL .066667 .066667 .066667 rg (\177) Tj ET
+.066667 .066667 .066667 rg
+BT 1 0 0 1 11 15.1 Tm /F1 9.3 Tf 12.2 TL (Built reusable UI components in React Native for the Kafezz and Protia apps; configured AWS infrastructure \(S3, SES,) Tj T* (SNS\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 173.9 cm
+q
+BT 1 0 0 1 1 2.9 Tm /F1 10 Tf 12 TL .066667 .066667 .066667 rg (\177) Tj ET
+.066667 .066667 .066667 rg
+BT 1 0 0 1 11 2.9 Tm /F1 9.3 Tf 12.2 TL (Managed a development team to deliver milestones on schedule and owned release management for Android and iOS.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 161.1 cm
+q
+BT 1 0 0 1 11 2.5 Tm 11.4 TL /F2 8.9 Tf .066667 .066667 .066667 rg (Tech:) Tj /F1 8.9 Tf ( React Native, Firebase, AWS \(S3, SES, SNS\), JavaScript, Android, iOS, Release Management) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 138.1 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 2 Tm /F2 11 Tf 13 TL (PERSONAL PROJECTS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 135.4 cm
+q
+.7 w
+1 J
+.533333 .533333 .533333 RG
+n 0 0 m 520.8 0 l S
+Q
+Q
+q
+1 0 0 1 45.6 118.4 cm
+q
+.066667 .066667 .066667 RG
+n 111.249 1.425 m 312.3338 1.425 l S
+BT 1 0 0 1 0 2.6 Tm 12 TL /F2 9.4 Tf .066667 .066667 .066667 rg (Figma Code Composer - ) Tj (github.com/punkadillo/figma-code-composer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 93 cm
+q
+BT 1 0 0 1 1 15.1 Tm /F1 10 Tf 12 TL .066667 .066667 .066667 rg (\177) Tj ET
+.066667 .066667 .066667 rg
+BT 1 0 0 1 11 15.1 Tm /F1 9.3 Tf 12.2 TL (Published npm package \(figma-code-composer / fcc\): a multi-agent orchestration scaffold that turns Figma designs into fully) Tj T* (typed, framework-native frontend components for React, Vue, Angular, and Svelte.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 67.2 cm
+q
+BT 1 0 0 1 1 15.1 Tm /F1 10 Tf 12 TL .066667 .066667 .066667 rg (\177) Tj ET
+.066667 .066667 .066667 rg
+BT 1 0 0 1 11 15.1 Tm /F1 9.3 Tf 12.2 TL (Pipeline emits design tokens, components, icons, Storybook stories, and tests from a single config.json, using a built-in) Tj T* (knowledge graph that reuses components across screens instead of generating duplicates.) Tj T* ET
+Q
+Q
+ 
+
+endstream
 endobj
 14 0 obj
 <<
-/Annots [ 10 0 R 11 0 R 12 0 R 13 0 R ] /Contents 20 0 R /MediaBox [ 0 0 612 792 ] /Parent 17 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 
-  /Trans <<
-
->> /Type /Page
+/Annots [ 15 0 R 16 0 R 17 0 R 18 0 R ]
+/Contents 19 0 R
+/MediaBox [ 0 0 612 792 ]
+/Parent 2 0 R
+/Resources <<
+/Font 8 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
 >>
 endobj
 15 0 obj
 <<
-/PageMode /UseNone /Pages 17 0 R /Type /Catalog
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057punkadillo\057anoncitizen)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 108.7868 662.92 263.3886 674.2 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 16 0 obj
 <<
-/Author (Allan Jeo Joseph) /CreationDate (D:20260815075356+00'00') /Creator (Allan Jeo Joseph) /Keywords () /ModDate (D:20260815075356+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (Principal Software Engineer - Agentic AI, RAG, MCP) /Title (Allan Jeo Joseph - Curriculum Vitae) /Trapped /False
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057punkadillo\057eri\055tax\055filing\055agent)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 145.3622 568.32 330.2508 579.6 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 17 0 obj
 <<
-/Count 3 /Kids [ 7 0 R 9 0 R 14 0 R ] /Type /Pages
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057punk\055raven\057dotnix)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 217.4602 485.92 352.2092 497.2 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 18 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 3447
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057punkadillo\057fraudvisor)
 >>
-stream
-Gb!#^?$"^j(4FN4\1]X,G!SFR4&:bT-Qs/D?Gk(T<r&SS)X(:$CKlr>;Y/rCgsu_g@B=HcG)N/*0M).^m^_MPgPSX0r,qC&59d[@d$sb^\K3>'jS#-./O%Y6imkeN\`K+TJMX*!cc&[E_WO[<Ld*,1qJ+Tb0UQ(*hkNVnYs!+T4LXGCaK9.nMO6S!9qQMWPKdlHI&4ehGfme]n'c",@5[H"fUan]d9Sg\YCGQa%K,bMW-)lTm&NO-1tSdE.u^:)GcbF(%?XpclaPl-BY'LLVL4iXg2o:P5X3]ijmDN>HCot$B:]G0TcQeEl\6F&]d=lj5.lcpF^<%WG^TY]",b1c+uZ3Q=8\(Ai#9o^3H!Fh<nHtKcgeS:Qh7r)1\U\<0R\0'N-jCNrgNj*fBYP&$Iu"V*%4,IXZIEb9]!P`*F-Ra?ik_@H8>9M3YEoaHlX57n`5F$`=F_#0jj]F`G_aWT"Sj?Z;&'?[i"W`%:UU-o8soN-824*=&[n^l-lsQ^V.7)Il3kEDSAe/e,1<>f@.?]2,-5U-KW`%g>^:OYFIn>s3T4rb7;6FU4Lob]Xg"[-Uo*b?)RG&%CokZRC=15T&#Z5Lk=q$]"MMo45Ef8c5_to7LG?eBpl"U^aI;Gl")?n<9]c21o!l39$0&THm;\%:rL3/VhrgE:du.5_]M,apsYJVb+[d$BntYG8iJ4k%^N.YbJ99erIJ5c7L=*"_jm:*&V23i,bac4J!.5hem$Q/G`Z>B&h+.@lbVOlG]"7/d\P<O7X@L;V&+0Ej`VHhR7"<U'd:,6+Hg#.+B,\.8X*C&N5&4-7a6od$X$&#,!g/HQ%t"3F:u9P7L#)k*Kp&;\k=gsV$p$e,0tA4,FtakY/%YDR7r/\L`WMsgZ.rl1:dWUN$.-=CZJ9SneSYrAtI`0-kd,A?OG#bQ1?)0'JsZKDGl8H8X[q_jj(l"<]Z9DM_,7mkVT+t.=BA>7K/`9?[7"r4+4q&O0X2@,`e?U(_?#.(:uu[IA7Fh<sR11Hb7HZ3c<ESNn=-`7ELpAAQW8&>i)o'qTJg9Fdoh\Eot]C7%C\?K#W.*`(K5dnCeT<@AZ(Yo+W7MI68nqF;UWZap<RI2V;$f!QCU'-"#@4N8f,NiCeMp/@UiLOAE!R'#$LZ.=g":g9`Ur.[OY%E?))h^Z:Ep$j`p`0ZHZ@UsY_<co@9+g*R7BZeAcK;JRfhA,@4"5\7=`:k@pT5-R9tIJK23B8[646cL,?3/OkMrrGbaJ'X\b\3&sL8hN?NO;#\JPBT*`,[Z9Uh%WZllkf\`&"kBdRmI9BM1R2)]Hn/16rkMVGWUtDje7[1AL^U8,d&rA;tqis(&Q+3"?eKCfhn1<iFArmFoq"c&fIUJo=W!OHK1?LiL`s@X+/u4h9E+:>[B;45,`8?G8,:GoYMWRP*^O\(7!]e4(@sWN'6Gk/@@,5A-OW]hdG.Bh17@AC"`dB>e']8g5GE3/jABY7$o'_mQGKEocd-)N&eSurkrs7(ReO_E4S0?5"i^,TbCYTUG?=]6eWo'5UfS7fakGI#t9SbLlSN1Ts@]YOq=HH<#DmgQR;:t8,\cleC((ab(M^`.SX@;:?uR3Y@U8npI4#Sos4pFq(n@3QnH=TK<G_d'VKUpU#&(OC-)=5FQ.GXV2l&8IHrXI#5br\h6;rK\+3)qMfl;W8JMuL]3jlF`4C._,<HcTqK&%68+Z)B?bg]uebC9bMTZ_;4>10g0s4'O&I'O'%`sUb7]2*cTT7^.E[YlX<PXq>'b3)'NeBp<58JCSDi/dh<6<t,+Z7/D@*p_fHccI3PY>ol&;DY:;D@-c+ed(UkO:Oa48T6SZB_&GVQ?VE8&RRu7@kdYA52:[HHt_:d<Psaph1]+$K[>N@U]5`goQ/^JQ%<Q1D#m405+A"n"?JO%YAq%Ptf9-)4ds.SgifQ7+af_[*HKSnp*XhEd>kUYY^#.o)su8/gESV1RKY]?LV54oT</*b%@&^U"8!]Yk)65*ARGM9Ot#:Z8*JdT?BY!d%mSQ8cN=ETt,@H0:3_SoG!O(%en0M3l7^fl%9=1]Pb**-nXJab=hpHEFZfW"oSR2;5;8,O;LZI=inlcUFN3GV)#Go]db?h<l-1oa5-baAtEO4L"HE^c]*,Rs5WS>''7k[lE7A`7F)*cH%dJO(K.p3_><UumO]gH++Tc?>_H!X"_1UE,&Xf6BEDd"4CP7W$GCI=DW*sm@ZR'LA&U@oXdtWa?f'-j3r$;K:@$WVX8SE'%d@FafJ\ssjQO$*dCWD<)cZ\t!^=;gEK>:mi>m&rqi7kW:u1YESM,<'RQ>:H-jG@`l[ht4@[FYS.R=0*]u_?ueD]B^=7(F-6h8*uhM,bk0A/2>[m!CrAt,DheuTCNgEqoWLXtoa\0B\$Q=!t!Fb+;FZFq%nr]r+L2JYqRh'rk9$3sV8Q4Zgh:gSh7)o2G\<;'%ql$Y2%Ri!4u9J.tdWdFs=j%o;'QYVVXNap$:J5D&hXh#&9;7LZgM6rsXi$6G8Gnu`-@*!V5G_/b`D*T9Y*HPP?$D3eCV1W&),%ONYOjS`$T2]-fm"%r"[X/ZOGWe]%MOM]n5:A/:B6i!i'^]B9^LCVR#Sh4l^q-&^_1YLOh%GEs!q#/U:J)(qH6:^,4u-@mlN$BX_KC&n*sO`)8EcqfiJe'iSeR[u@R[;L78JsA%ShS8.rftUBKb(\C'iP*!2WLqo=V!Y6)WB=dU7)NgWnE[Pcb1CE-tl(h@q'E!B4QUlbKCM?<TcgM*2C/6f7HM[+4A=9i.:M5kAD!eRrUnl@[6aZtEUl=lgu]3Sm_k,9"=/*PmLUm=VaYN^<!Gj6:)?IO)XbY`qil74aDk,M,p92[-/35M,DK.OU#XTo1UU6&):+A%MsZA5(qZ,kkajDR*[RAW1L:]utDc!,&<.rGZHi*XGj`%NQURns%mnAR38ZU[AXed%O/o"l:+&5]uR)$V:unlOHbWTZc.3+&o]UdK&\L%k6FZ3`XE)NH.:]iAZ`'A:6Q_TU_31HOAhVLZ_iVDouQtPRDpIoSZu*p&Z7jd>o%Sk!Z.:5e*0bFFJ@2V"=no\S4?LI]s+h89&PM*:BVHXu5pZ$k==Di0X<84lsh%T9!iBjjVUE$S+DdX>5,]o!">B%Nc\\6R!cq56tOR<Dn$cieZuKpDINEE7c0.JR`@L'C7NX>9qGDRdK,!g$QM<2RP$`_ac;\H.`KGoe+_1cFbY<AY8Ir!O@:NSPE7)YoifnQ78H:M]EI]k,9=.m\jP'hPpN)EJDG"d$?-8$,oes[bOn(Fa845jLWHBIbIc4kkirmCb_[mA2lN5qf5P_T?8]\X=ikc^$9iD#/CSi3n-fOa8qSIAPZ6*\7^,XH<k6<TW^n7D<g9gjb()\.1\0.<Vh"65T<a07gI,eoqZiXeu5+pmO@7>&"`9<5Dbb33VXj@73rWf\]_i7U5ajTAr8J(K6mC(LL0oaP2QO@~>endstream
+/Border [ 0 0 0 ]
+/Rect [ 102.5358 369.12 251.3942 380.4 ]
+/Subtype /Link
+/Type /Annot
+>>
 endobj
 19 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 3175
+/Length 9550
 >>
 stream
-Gb!#^gNM:A(4FM1S>RDj$OG`epQMf:8UOqtVDAaq'N+rH,aGr?Jrhi35J*p@^i!t"<l_n0Z])FcWjD#]IJ,kAUDA;@q`BUj/gg5i`ZqZ]P<!pEAsXjRF?OpDa#gL"A@L1We"H$cG7`g-AuguB"+'sF(@Q2tDg21=%[b0oH^dLeZu^SV>H1s7c*NZ+O;`5-7p6$gQ6\Se4/Q%`Me#+pWQ8Gh<6VgnTi_q>B/KENPCK$tr<kj9Qfn%2D7@012;kCao\:Y[GAFsJQXc]Be/Jh_eSqMVMq*0#Ti&/VY1,#^bseFbd:YY<ELn`gn^*hsM28e,pJQp[#acA_To?%[#WV?"ChVM;"6%f%cT_/LLT?5D=e1(F(`B,]9!U-YRAT''/=F%<$!D,_B1j[TGYqBTY_Y4gctp,5c$k7V]/f^l^c]-PF"FMYKh+1)8=nJ0:1F``O=YrVk$jH'LZ&^`K63bsd[79JLM.a,&_!94>R/G-dIn-k^m<p\M[G"2_pN28F/_.9$^#7dS->ALJ]F3Xm#oW.qIB]B\\+]e,i7"7!H<A,GBHt,`6u""NBn*JI?Jh[nMQA<C(\!fnLS3mT'N4PiYtrI[3/O/9qmFbYPj=&Qh#4X&#KP0.2&1O+jftP_p_#H,bM?cFGq20fNQG=joNZ5N,?:^GSCI8?M6d?k8^Zp#PG?aC,M(5V@nsXOnpcTm$VF2T'J//1CVONkH?'biPG(tHT`$LEBqc(U>)^E!Ai/`@PKh-X?S.b\k2`ZQo=$M0At/LO@%dj3Aqd/PZa&['sVo85H#*!auDl-I6nnFH(_[mciFfg^_TX[QeNBZ/j]/RH<.9tDg:"3Vg+f<);&I0gpQB\JW*NqE7C1J78#bh5VQ/spYr2`C\<_]rY#Qd:WFRUL\jQ>OGO9tgP!Ni0QG.?i!Dp*!X'I9QaS.Y`G7GPbp!`8oXkqJ-OTDQ78"Pn-o37/WWJdKa?.parW1iBa2e9L3f_j9UVpW@&![ZYU=FnSU+7+_O;(K99C[^&eJl(,,U`Y<;[(5"BW:o;EjF1nVo^jYI\9)d^\7c[Mcf7&/'&6ei7Wufmi0JXVO]Hrl56%4_3,Q/)E=0;T_!h*gJ!,)D\V@W80/+t`CU7(]P]j;Q!VRK=f2e_080qc"F[(4QhS)/;bau]9nEN%nPSM7Jq_)&fF-nFKl@0ffPm.A'$+2kPFPRL4=>Bd.OdHmdfeotB/3Wm-Nml1L*^dc1T>L"M@*BT((mH:Y&366)XU3,>R#h.7.7F;78OPk"nZpP&oI):[A<,!VGZ`]JRX`I'0/,I_@TOQZXjnDBgbt\cmTjdo^%[o=@N:Wn$AesRb$CrS%QKMW=dgi*0*X=jfV8i^4F[@3X8(mF('pg*uW/4+:o:i5"Z^*Imr_[d?+KU)p\H(eu[s!h^3QVd#,R;6n43-C>g=)<f:m>T.<5Fr-@mW/FBn4J?*$_5Nl`,kr5SeP_$pC+6;TUTd<bQWT[[a#pElK_%\+?SZ"<s=X>E,rU-ZIfqDg+1&!<>9[<#]Y]-r/#G8:RHr$#dm.S(jQ'%nu6TdoOLf.eWa;33u(jUXcd<"eAON>UE;k=k)rlf#h&K?h^<aWG38U5o@CL`X$:/@m/l3r_.o\12B4qn:'!f:n/Lk#)sDR\?/>@!pp]&)ZN=&[pQ9mNjQ]@`^h@m?Oj.#)3*GBG#Rb%VTJ'U%p&MdI2LCCRQCa(V3c[cak`P#NTO_35%\Eg7Tc(;`1q]lreXmX\c#f0"f2UirfpU1q6qViQ,?bu=*(ATif7o@O34,fZqk1EW[`dR\9#ljmVLO<LK(CME&[bQD'1k%"<>XL>HMo/qooh]Lc.k$Sp+Z9ZM_K)uIH'^hdZ4Q)j!DT$!;h.n1[`$21D31^&R4[(<h.88lYcepk[L9&!n\)KAC`*<9n&Yl7+7)i:ecoXO2e(u'C4[e]0]$8'*ic)j]3-@#f?LdEs_2'@mo$FB6bD4t>>W'/+/:%k`6Kl7N4(G`8R\;\/T'r>o;^7"^(,P+$08%6I[KrG,LQk"p[%*=X4Q7pPc3ZM[1p,#a:l*]Tpj,ep&A`PR0%#YN@9bXe"#k.Ypg-VNBceq*\*-ApC#WQ212JYHq&;'/PQ(b@jO:G]aVT*?&`uB!Eu1QgC;nI@+8=_hgmk,`cISpFQlj_a9UlCt>=@XW-3I]EM_o+AfSlO'ahB>O\Icj[nQODD%UWRMHSdjZT\cVmh(]Wq%m&=+Alc1^iCQ+)Q69`%FsstiHnEm7JdC/DS!2RNMC@TkQPaQJWhYf1-q%93k&V>:Y3pe)$Yahk4n3k(WpN+<<'C#j\(de8-mLd_=_2:Cl.n"jKHGK,J)/ur=GqmpCe)GPe/p([J"rjnEGH:Y^&G"",j4gnKPW[$:"^%7N1lc2a:;IQ2,Mrtlk_uT/J=Hdd`M9_(FMFIpiQN_O0E-T(\dZcWct9*3.$]PPppU[O58jO&St%=LID#C6t7OXn3HG[Fo:kgA'6\f`o.nhK<=C(bq`dQeqU&?74_:#'he6]7n!1mdIB4JAH_FT+L6+%VruYJkm[mBA$aLFE"^Lb?,70ogpMIR1*o#3@WVP9RhNb5C3.i.V"DjUA##jDX\4f#(!Et9#;O.!rQqO-J*kj3DSj.Y9idLH2`S7d-UgDha_9K?a'l_LVm%TSCVsp5DIAY395`LP5u53?/"\U8C:O\Kr_`4`VL5c&HY0naqb)*>?`#,:@4pX>aK?_ucEN8q]63(-'mb&P3pt;?oqVP+Ist&Na+o`-QP7.!\iWZ?0&>I1O7/ONNql2k+!5u\Qe5eXlEsi0SLo`?5C-@K2d^k[)LF4MS(@"f#[>pKiNsV9hJc:T2^eXKK3#&.kn8Rh^JO]n-"KMk$`L.Sec[//2r_st^%ZSh7)N,W7Sk)p3ejD>PCSi>^MuGq7#$#`,`O6AI)bJJCI^^epG<D4l.OB2FuNgI7o?2t4TO$7G5$[PEuCB;$j.+&.`n2>U1/"L7'*cUQgKe9obM#?:@n$\*K?k&gD@Ro:s9AucV<4AM`bIk.6J[lUoU"rIrN!V+rlLTS-^.MdJL6O1Jm=n-h*:G(dK9Y2<Gi0`]D?%!=/h/i8P^f``ZqlHH!rRA'h@D9e`D500-SeXDZMsZ+I,8>:";'nISh'Vi`Uf5+:mFnik]\@U>?(MK?D/)+ZtKUZpcb%Hd:kmVWg>q1^$*q]F%9#Q=~>endstream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 45.6 717 cm
+q
+BT 1 0 0 1 1 27.3 Tm /F1 10 Tf 12 TL .066667 .066667 .066667 rg (\177) Tj ET
+.066667 .066667 .066667 rg
+BT 1 0 0 1 11 27.3 Tm /F1 9.3 Tf 12.2 TL (Features complexity-based model routing \(Haiku, Sonnet, Opus tiers\), an append-only knowledge-graph ledger with RAG) Tj T* (similarity retrieval, per-run handovers for context rehydration, and a 15-step setup wizard with a hard Figma-MCP) Tj T* (reachability gate.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 703.4 cm
+q
+BT 1 0 0 1 1 2.9 Tm /F1 10 Tf 12 TL .066667 .066667 .066667 rg (\177) Tj ET
+.066667 .066667 .066667 rg
+BT 1 0 0 1 11 2.9 Tm /F1 9.3 Tf 12.2 TL (Runs from both Claude Code and Cursor off one config; 137 bundled skills, MIT licensed, 2 releases.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 679.2 cm
+q
+BT 1 0 0 1 11 13.9 Tm 11.4 TL /F2 8.9 Tf .066667 .066667 .066667 rg (Tech:) Tj /F1 8.9 Tf ( TypeScript, Python, Node.js, Figma MCP, Multi-Agent Orchestration, Claude Code, Cursor, Knowledge Graph, RAG, CLI) Tj T* (Tooling, Storybook, Vitest, Playwright, npm Publishing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 662.2 cm
+q
+.066667 .066667 .066667 RG
+n 63.1868 1.425 m 217.7886 1.425 l S
+BT 1 0 0 1 0 2.6 Tm 12 TL /F2 9.4 Tf .066667 .066667 .066667 rg (AnonCitizen - ) Tj (github.com/punkadillo/anoncitizen) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 636.8 cm
+q
+BT 1 0 0 1 1 15.1 Tm /F1 10 Tf 12 TL .066667 .066667 .066667 rg (\177) Tj ET
+.066667 .066667 .066667 rg
+BT 1 0 0 1 11 15.1 Tm /F1 9.3 Tf 12.2 TL (Privacy-preserving zero-knowledge proof protocol for Aadhaar identity verification, enabling proof of identity without) Tj T* (exposing personal data.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 611 cm
+q
+BT 1 0 0 1 1 15.1 Tm /F1 10 Tf 12 TL .066667 .066667 .066667 rg (\177) Tj ET
+.066667 .066667 .066667 rg
+BT 1 0 0 1 11 15.1 Tm /F1 9.3 Tf 12.2 TL (Supports both off-chain and on-chain \(EVM\) verification; published as 3 npm packages: a TypeScript SDK, a React hooks) Tj T* (library, and Solidity smart contracts.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 597.4 cm
+q
+BT 1 0 0 1 1 2.9 Tm /F1 10 Tf 12 TL .066667 .066667 .066667 rg (\177) Tj ET
+.066667 .066667 .066667 rg
+BT 1 0 0 1 11 2.9 Tm /F1 9.3 Tf 12.2 TL (Uses Groth16 ZK proofs via Circom circuits with nullifier-based sybil resistance; 2 releases and 202 tests.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 584.6 cm
+q
+BT 1 0 0 1 11 2.5 Tm 11.4 TL /F2 8.9 Tf .066667 .066667 .066667 rg (Tech:) Tj /F1 8.9 Tf ( TypeScript, Circom, Solidity, Groth16 \(snarkjs\), React, pnpm Monorepo, Turborepo, Polygon Amoy, GitHub Actions CI/CD) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 567.6 cm
+q
+.066667 .066667 .066667 RG
+n 99.7622 1.425 m 284.6508 1.425 l S
+BT 1 0 0 1 0 2.6 Tm 12 TL /F2 9.4 Tf .066667 .066667 .066667 rg (ERI Tax Filing Agent - ) Tj (github.com/punkadillo/eri-tax-filing-agent) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 554.4 cm
+q
+BT 1 0 0 1 1 2.9 Tm /F1 10 Tf 12 TL .066667 .066667 .066667 rg (\177) Tj ET
+.066667 .066667 .066667 rg
+BT 1 0 0 1 11 2.9 Tm /F1 9.3 Tf 12.2 TL (AI-powered agentic system automating Indian ITR tax filing for ERIs.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 528.6 cm
+q
+BT 1 0 0 1 1 15.1 Tm /F1 10 Tf 12 TL .066667 .066667 .066667 rg (\177) Tj ET
+.066667 .066667 .066667 rg
+BT 1 0 0 1 11 15.1 Tm /F1 9.3 Tf 12.2 TL (Multi-agent orchestrator built on Claude routes tool calls across 6 specialized agents for authentication, return submission,) Tj T* (DSC signing, and envelope construction.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 515 cm
+q
+BT 1 0 0 1 1 2.9 Tm /F1 10 Tf 12 TL .066667 .066667 .066667 rg (\177) Tj ET
+.066667 .066667 .066667 rg
+BT 1 0 0 1 11 2.9 Tm /F1 9.3 Tf 12.2 TL (Includes a mock server and dry-run mode for safe testing.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 502.2 cm
+q
+BT 1 0 0 1 11 2.5 Tm 11.4 TL /F2 8.9 Tf .066667 .066667 .066667 rg (Tech:) Tj /F1 8.9 Tf ( TypeScript, Claude \(Anthropic API\), Multi-Agent Orchestration, OpenAPI 3.0, Zod, Node.js, Vitest) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 485.2 cm
+q
+.066667 .066667 .066667 RG
+n 171.8602 1.425 m 306.6092 1.425 l S
+BT 1 0 0 1 0 2.6 Tm 12 TL /F2 9.4 Tf .066667 .066667 .066667 rg (dotnix - Cross-Platform Nix Dotfiles  ) Tj (|) Tj (  ) Tj (github.com/punk-raven/dotnix) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 447.6 cm
+q
+BT 1 0 0 1 1 27.3 Tm /F1 10 Tf 12 TL .066667 .066667 .066667 rg (\177) Tj ET
+.066667 .066667 .066667 rg
+BT 1 0 0 1 11 27.3 Tm /F1 9.3 Tf 12.2 TL (Single Nix flake delivering one shared package set and AI agent-tooling environment across macOS \(nix-darwin + Home) Tj T* -0.048461 Tw (Manager\), any Linux distro \(standalone Home Manager\), and Windows via WSL2, with a modular layout and a single rebuild) Tj T* 0 Tw (alias mapping to the correct activation command per platform.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 409.6 cm
+q
+BT 1 0 0 1 1 27.3 Tm /F1 10 Tf 12 TL .066667 .066667 .066667 rg (\177) Tj ET
+.066667 .066667 .066667 rg
+BT 1 0 0 1 11 27.3 Tm /F1 9.3 Tf 12.2 TL (Built an interactive cross-platform installer \(POSIX install.sh and PowerShell install.ps1\) that detects the target system and) Tj T* -0.048978 Tw (generates config outside the repo tree so no personal data is ever committed; covered by a hermetic PATH-masked installer) Tj T* 0 Tw (test.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 385.4 cm
+q
+BT 1 0 0 1 11 13.9 Tm 11.4 TL /F2 8.9 Tf .066667 .066667 .066667 rg (Tech:) Tj /F1 8.9 Tf ( Nix, Nix Flakes, Home Manager, nix-darwin, WSL2, Shell Scripting \(POSIX sh, Zsh\), PowerShell, Linux, macOS, Claude) Tj T* (Code, Codex CLI, Reproducible Builds, Developer Tooling) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 368.4 cm
+q
+.066667 .066667 .066667 RG
+n 56.9358 1.425 m 205.7942 1.425 l S
+BT 1 0 0 1 0 2.6 Tm 12 TL /F2 9.4 Tf .066667 .066667 .066667 rg (Fraudvisor - ) Tj (github.com/punkadillo/fraudvisor) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 355.2 cm
+q
+BT 1 0 0 1 1 2.9 Tm /F1 10 Tf 12 TL .066667 .066667 .066667 rg (\177) Tj ET
+.066667 .066667 .066667 rg
+BT 1 0 0 1 11 2.9 Tm /F1 9.3 Tf 12.2 TL (AI-powered fraud detection platform built as a Turborepo monorepo with real-time fraud analysis.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 341.6 cm
+q
+BT 1 0 0 1 1 2.9 Tm /F1 10 Tf 12 TL .066667 .066667 .066667 rg (\177) Tj ET
+.066667 .066667 .066667 rg
+BT 1 0 0 1 11 2.9 Tm /F1 9.3 Tf 12.2 TL (Full-stack TypeScript architecture, containerized with Docker Compose; 26 commits across 3 contributors.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 328.8 cm
+q
+BT 1 0 0 1 11 2.5 Tm 11.4 TL /F2 8.9 Tf .066667 .066667 .066667 rg (Tech:) Tj /F1 8.9 Tf ( TypeScript, React, Node.js, Docker Compose, Turborepo, pnpm Monorepo) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 305.8 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 2 Tm /F2 11 Tf 13 TL (TECHNICAL SKILLS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 303.1 cm
+q
+.7 w
+1 J
+.533333 .533333 .533333 RG
+n 0 0 m 520.8 0 l S
+Q
+Q
+q
+1 0 0 1 45.6 274.7 cm
+q
+BT 1 0 0 1 0 15.2 Tm 12.2 TL /F2 9.2 Tf .066667 .066667 .066667 rg (AI & Agentic Systems:) Tj /F1 9.2 Tf ( Agentic AI, Multi-Agent Orchestration, RAG Pipelines, MCP \(Model Context Protocol\), Agent Skills,) Tj T* (Knowledge Graphs, Prompt Engineering, Guardrails, LLM Integration, Anthropic API, Claude Code, Codex CLI, Cursor) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 260 cm
+q
+BT 1 0 0 1 0 3 Tm 12.2 TL /F2 9.2 Tf .066667 .066667 .066667 rg (Languages:) Tj /F1 9.2 Tf ( TypeScript, JavaScript, Python) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 233.1 cm
+q
+BT 1 0 0 1 0 15.2 Tm 12.2 TL /F2 9.2 Tf .066667 .066667 .066667 rg (Frontend:) Tj /F1 9.2 Tf ( React, Next.js, Redux, Tailwind CSS, SCSS, Storybook, Design Systems, Atomic Design, Component Libraries,) Tj T* (Accessibility \(a11y\), Core Web Vitals, SEO, Performance Optimization) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 218.4 cm
+q
+BT 1 0 0 1 0 3 Tm 12.2 TL /F2 9.2 Tf .066667 .066667 .066667 rg (Backend & Data:) Tj /F1 9.2 Tf ( Node.js, FastAPI, REST APIs, GraphQL, WebSockets, MongoDB, Firebase) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 191.5 cm
+q
+BT 1 0 0 1 0 15.2 Tm 12.2 TL /F2 9.2 Tf .066667 .066667 .066667 rg (Cloud & Infrastructure:) Tj /F1 9.2 Tf ( GCP, AWS \(Lambda, S3, SES, SNS\), Serverless Framework, Docker, Docker Compose, Nix, Nix) Tj T* (Flakes, Home Manager, nix-darwin, WSL2, Shell Scripting \(Bash, Zsh, PowerShell\), Reproducible Builds) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 164.6 cm
+q
+BT 1 0 0 1 0 15.2 Tm 12.2 TL /F2 9.2 Tf .066667 .066667 .066667 rg (Testing & Tooling:) Tj /F1 9.2 Tf ( Vitest, Playwright, Git, GitHub Actions, CI/CD, Turborepo, pnpm, Monorepo, npm Publishing, CLI Tooling,) Tj T* (Figma, Figma MCP) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 149.9 cm
+q
+BT 1 0 0 1 0 3 Tm 12.2 TL /F2 9.2 Tf .066667 .066667 .066667 rg (Mobile:) Tj /F1 9.2 Tf ( React Native, iOS \(Swift, Xcode, TestFlight\), Android, FCM Push Notifications) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 135.2 cm
+q
+BT 1 0 0 1 0 3 Tm 12.2 TL /F2 9.2 Tf .066667 .066667 .066667 rg (Web3:) Tj /F1 9.2 Tf ( Zero-Knowledge Proofs, Groth16, Circom, Solidity, EVM, Polygon) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 108.3 cm
+q
+BT 1 0 0 1 0 15.2 Tm 12.2 TL /F2 9.2 Tf .066667 .066667 .066667 rg (Leadership & Practice:) Tj /F1 9.2 Tf ( System Architecture, Technical Leadership, Team Mentorship, Agile, Sprint Planning, Release) Tj T* (Management, Stakeholder Communication, Open Source Contribution & Maintenance) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 85.3 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 2 Tm /F2 11 Tf 13 TL (EDUCATION) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 82.6 cm
+q
+.7 w
+1 J
+.533333 .533333 .533333 RG
+n 0 0 m 520.8 0 l S
+Q
+Q
+q
+1 0 0 1 45.6 65.6 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 2.6 Tm /F2 9.4 Tf 12 TL (Bachelor of Computer Applications \(BCA\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 53.1 cm
+q
+BT 1 0 0 1 0 2.5 Tm 11.5 TL /F1 9 Tf .066667 .066667 .066667 rg (St. Xavier's College, Ahmedabad, India  ) Tj (|) Tj (  2013 \226 2016) Tj T* ET
+Q
+Q
+ 
+
+endstream
 endobj
 20 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 3530
+/Author (Allan Jeo Joseph)
+/CreationDate (D\07220260815080240\05300\04700\047)
+/Creator (Allan Jeo Joseph)
+/Keywords ()
+/ModDate (D\07220260815080240\05300\04700\047)
+/Producer (ReportLab PDF Library \055 \050opensource\051)
+/Subject (Principal Software Engineer \055 Agentic AI\054 RAG\054 MCP)
+/Title (Allan Jeo Joseph \055 Curriculum Vitae)
+/Trapped /False
 >>
-stream
-Gb!#^d<=57&q/)-eC1M*$Nu"]1O11s:70[oa"W];F8XHWD<S7SX_kI^PHu@G\%2a_2Ik"Rna&<^_*eQOf<)&W\#L*=)aBI7NAI:>1O=6b;:M;m'h/#%I@?_RdHo,mhaH"cqn6%&#13F[j!sJ(Ih5Iid-B%1$VtI5-Zo.\X`be9##B^&"moSbK>Cc\rP=Eiq0`e)H+;4_hssAk^Xh8H'X"gKT\*e#.drU+2<U]q$"YHG.9TS1V&+6apIV=LZ9_Ea[<)lSP*Z>4-#IYt[R!6DaE+>EVU=XcY-kf7A[7EBKbaEHr-M)Gat;jeo[-ksq^:bG.T<=N=Hon/<ll;C2COp#BhM/nTbDL"($NeBCf!3=kA]I%Q!!"0dCa?`JtcSXE&+=X\h_;Uhh4_@@KI(Vqd[%T7.YMJ^00,]&MM+.V7cLg38%Jb"D!#%cXRd"]C>4u-and0)^!q?o@Sa5V$99;A2H5!H(9aIOYhgi4?VZP(4a_9?'3Nt@D#KrpCq`T1bWtQf2-Ihd^3]7l"!8_MPZ(-)q4o<WC/9O2;%O+6Ytij2Yc#9]8iVI)=NSIFMO6GScrdSj5l>N8N+'S_B-s&\X^Z?jbUYBQ!:QocX:>M%rC'KR,DCT;5R)G7gl::IBi<?(2b-F>M(b^?lJZ_*N\mqK=/N-MGI"pRp_X%P9L;Er6EsFgmIC3rMghYN1HbRF_fN:M>''Wke*F`W`\9S)US>O2/%Jo`PokVReki@FO35p5hP<u7\/b9ea7P3(K-]>KAK(joKD9+2;gjArcu:Lg?>e^lC6;Q,erf]"k'<=[m1>iX?[DUpfcBq!dDZCc5Q;crRSfFI#30Ok^SaLgC$0iQuf<G7(d9s+?jLXR,>VLCRQ3rU>-Z.`NRS*-M@9m'$4#W9.E580l$b'Ff"(I[%nIY%[-+Xpq+)!R0YX\#q("bS&4%iDDPIlPR&Z%Opj7^;E1RcSf@!Q^crs1-E'pYcTXg"s1$iGqXsLOm/tkp;]`4J*$bmVq?4qQBjr6D+$ncX.8SF1c_,Wr!,jr&+pEl6SuJ/_@99-@9Tc=]UL%KJ3aX`U]<713HGdR7jnE,t^n<#^)tiIicQU(2\l"(!as',#`ii:V!P[^\1/.d(MJ+F!`<p/d>[FAG#p%4`>KlLYla/alA6+W9_*21Ln9h.aqg3!?f[nb8[B[R,Ej*j,?N9!7LCXaU"qI8(UQ(PLC!`rgoBP_R8QQ:pBp9KaL2rp/3K7L._1K[jGN6RZbPQq"jj0+_E7c*$4.U`(5![g1q_-(A7i)i-M)uD6cShK@4\seQ\>Bp`bq&gZVVnZ-f\>/1Xk>Cs1im^g/Q2imU1+6be6b\>F=%Z-X\Nu4+A!re$\I=O%/2:_phI^ZF0I1=?O,0eET8VuZOo,MCgO+UQh4JAY]**]4%L0F"lp\\fUAP-4r(VePt4cj.h%'G#(B2UBN<HQa@iS5.-I!J$GNlUgr&BD$FS5e'JY;4I3V[SH[1GgPs2V@E/o7J1W1V$:&uLL6PC/@'5I_m05P91=2$QNk/`0ULb%`3'2[33g[=EoaaYC\L/>C5^iN.aEobC,I):j<N(3eu2@aq.\(,BCmj?^#fg53nDrj/2n#ts/BFqQ]qX&X4m'cenIXB^m8[;$Ke*7G839JS+6E<1-/Yb+,4>[P\!&%F/q4I/7Sl09/lK]egWI>X)=G+Eg?mgH:MLL&43)-4Si$oJnP0i8?en!]/D@[-IbFjP]KQ0NLj*ifk9[RsU(#jmJf'&%pW$7O$`*]AI2?;6#KY<*'q\OZ9R9[Y[Cq&-q#Q&q2gF\ddBKX^tl+r6PPV2DQJOZo!X#m+L,#[815Css3S^:H7'6>*\d+@MRVm1.6OdK\eQ&`!U"B`nRMI<fV9TmMD4)M_An=\^Qk;f$n%"SPt@b/\h/T^+i3%oM?P4@"ofdX,aW$^KtgV_V^#TnH-5`o%"Yu#tEYhQ(tg,s`c2l%lR^>(gM17e?O^="Ks*nk\<`7(PVe'07c&OGNjV/Q\l#7q9(W"X?*=B_&+SNI=<iS_Lu"#5PT3'WJ`3<d6U"WAii%+]I[X@-//dcP!87&hBO1sM%YcH5-1hVNLN0OO>m8D6bC>W<hM4uG,n>iV$-Kb&ffBs,Id?1?VZM=f4`%jYo-BBq9b.l_c8)]EgjCQ0eSJi?""#_TbI\RGk'0:&+npKhWgZtk?M>o/GoRBP`uGeN-_#RbK++%[?N3RWa/.)CoRAZ5QnW]<W[E;bDHE6f;U?GAAap9k/IW"7_PE;q6M_m+p/2i?d.cV*K&c&FU#om45br+f+d>Jf&t;l(j_gEtm3L_Qq<2Vf#p20;fK@]^>YdjYE.GR>WL?(n[-9:,Tj2])JnJN637g]S'Ol#"Za"B:LmJ4b_>i%]g[i$L+G4V3C',6QV]jegt5\mJ=\7VR(aoKgaLR+PSmcun[lR/N$0Yj.Z9lL(?3&,PGoSTTo4mG?QW^ZHMHDX^>TX_#Op]j#)=j%j<On`YY'T-l!6e%0,&X_L,P)UL'"r96qVfB#6hpp[.;rbdHsYDqAH4e(e_C1jd.H?s\^jpnL,aJQ@62kAY_l\']m*BVEje<e&3hFZ6"p,7,R-I3%lMpY$U=#ooBk/)'u4pTc5qGWl'F]NNh%5=4C__\/ueA%^P8&K7-#N*W7s$qBdkB^RhTT>qRM%tmY#u45jd9euG=RY99F7FLpIU>1R\G^\+G5CSHBQq2nl4]j-V&ppG`HOBMIM+U!iLrT_%_J2iH\mP<[d5H6m+CD\4lJo'Sej0@8j.eC;!nu8:Jn?oiV!1Pi_XZ&^()bTa-d@-$'uSS\MXW/M'&09\J5LI30n7MX$a/84V:+5NgqiPT"`?-pO@c^@!_GKBM$B)K-uQ?),V!q2]iSgpdGELACL;Kp]K,[+RoOS63-G(nG[N#'[?sH`R/eI@9PKS]`3B-@*>E@I?'N4k_2%p^un;Q(.9=<[jE"_Xf"OFmuE-BC.^BsU/>.4(^8H&LLD;#S87b^]<)a/bnC,MFP/;e$tiL^g=-Wbd,,TAQ'9<oA$=K(s-2j$134*:h_-oQLe;E"$dCB%I3K_Jd-^:j2h*ctZS83V^6MIL!UQsf]oU<!Sf'K(d.g1lCi#*'+!(X_"3'rMpF59d/[nJ.CB3$0U6*,`nsgWZq6&?W-S/n^)o;e.hpP;=eJ1@E/bZ!c5TZg3NisroYsp#n@XJN8d2AMn[lNHIF)cDj?N*-HON6/tpAE2`HhV+>gn10S%MErU0c^.<\iDOEfm`eu@e.J^oL+Q>4mc//#h!eOPfLC@'\JsG%jWVT4q6"?\pk,q'i8cjHrF;f/`:eSS"m8NNcQ5<\/4*lBG6dWkBXeZo`\m11hdRN,:iG!8BfOL5ZcZAHI_!)0)$&EJ2MSYTXd<MO!6XLmRntJUVgHYUY4_O=j:uXbur?8.E-b>mXXMX%A@.bl;XNn1*[q5;ZC)^4@,;DY`J?;?)JC#m!*XJ[V"=->H$>d'>4sFLo\+sS@TL7->o'Ts!Y+J1mJH%ctJih7*Gg4hk.A?)5MH0E6MkuN=k%?+75BNr"j!WpNu~>endstream
 endobj
 xref
 0 21
 0000000000 65535 f 
-0000000061 00000 n 
-0000000102 00000 n 
-0000000209 00000 n 
-0000000321 00000 n 
-0000000495 00000 n 
-0000000673 00000 n 
-0000000849 00000 n 
-0000001074 00000 n 
-0000001268 00000 n 
-0000001481 00000 n 
-0000001670 00000 n 
-0000001867 00000 n 
-0000002051 00000 n 
-0000002239 00000 n 
-0000002475 00000 n 
-0000002545 00000 n 
-0000002887 00000 n 
-0000002960 00000 n 
-0000006499 00000 n 
-0000009766 00000 n 
+0000000015 00000 n 
+0000000083 00000 n 
+0000000156 00000 n 
+0000000375 00000 n 
+0000000557 00000 n 
+0000000754 00000 n 
+0000000945 00000 n 
+0000010483 00000 n 
+0000010525 00000 n 
+0000010632 00000 n 
+0000010745 00000 n 
+0000010955 00000 n 
+0000011175 00000 n 
+0000022145 00000 n 
+0000022376 00000 n 
+0000022583 00000 n 
+0000022808 00000 n 
+0000023013 00000 n 
+0000023219 00000 n 
+0000032822 00000 n 
 trailer
 <<
-/ID 
-[<f9abbca5060e7bf6be88a612d87d45a8><f9abbca5060e7bf6be88a612d87d45a8>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 16 0 R
-/Root 15 0 R
 /Size 21
+/Root 1 0 R
+/Info 20 0 R
+/ID [ <6930220cbb6dd55ec422657e3ca82d90> <6930220cbb6dd55ec422657e3ca82d90> ]
 >>
 startxref
-13388
+33204
 %%EOF

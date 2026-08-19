@@ -12,7 +12,7 @@ Collected 2026-08-15. Raw grouping output in `github-project-tally.txt`.
 
 ## Part 1 - GitHub: 34 projects
 
-Queried via GraphQL, authenticated as **both** `raveracker` and `allan-ra`, each with
+Queried via GraphQL, authenticated as **both** `punkadillo` and `allan-ra`, each with
 `repo` scope, so private repositories and organisation work are included.
 
 ### Method
@@ -38,7 +38,7 @@ Queried via GraphQL, authenticated as **both** `raveracker` and `allan-ra`, each
 Organisations: `ValueverseFZCO`, `proceduretech`, `punk-raven`, `empirical-run`,
 `Fiska-Consulting-Private-Limited`, `storiilabs`, plus several individual collaborators.
 
-GitHub also reports **1,003 restricted contributions** for `raveracker` - commits in
+GitHub also reports **1,003 restricted contributions** for `punkadillo` - commits in
 private repositories it will not attribute to a named repository even to the account
 owner. Those are already inside the 34 wherever the repository itself was visible.
 
@@ -64,8 +64,8 @@ against the 34 above to be certain there is no overlap.
 | 10 | Protia | Adinav Labs | Employer org |
 
 Already covered by Part 1 and deliberately **not** re-counted here: Hive
-(`ValueverseFZCO/hive-*`), BrightlifeCare / HealthKart (`raveracker/kh*`), E-Raktkosh
-(`proceduretech/e-raktkosh`), Bitespeed (`raveracker/bytespeed-demo-api`).
+(`ValueverseFZCO/hive-*`), BrightlifeCare / HealthKart (`punkadillo/kh*`), E-Raktkosh
+(`proceduretech/e-raktkosh`), Bitespeed (`punkadillo/bytespeed-demo-api`).
 
 ---
 

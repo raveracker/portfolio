@@ -97,7 +97,7 @@ falls back to the unsplit HTML source.
 
 ### Contribution history
 
-The rolling year on the calendar is live from `raveracker` only - the route rejects a
+The rolling year on the calendar is live from `punkadillo` only - the route rejects a
 token whose `viewer.login` does not match the requested username. Lifetime totals come
 from `content/contributions-snapshot.json`, a frozen archive.
 
@@ -107,8 +107,8 @@ irrecoverably; the `allan-healthkart` account used for BrightlifeCare lost its e
 history exactly that way. Anything not captured beforehand is gone. Refresh with:
 
 ```bash
-gh auth switch --user raveracker
-pnpm snapshot:contributions raveracker
+gh auth switch --user punkadillo
+pnpm snapshot:contributions punkadillo
 ```
 
 Full findings in `docs/contributions-snapshot.md`.

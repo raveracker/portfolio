@@ -3,7 +3,7 @@ import { type Project, projectSchema } from "./schema";
 
 /**
  * All 44 projects behind the home page stat. 34 are reconciled from GitHub across
- * `raveracker` and `allan-ra` including private repositories and organisation work;
+ * `punkadillo` and `allan-ra` including private repositories and organisation work;
  * 10 are CV engagements whose code lived in client-owned organisations and so has no
  * repository here. Method and overlap check in docs/github-project-tally.md.
  *
@@ -24,9 +24,9 @@ export const projects: Project[] = z.array(projectSchema).parse([
       "The pipeline emits design tokens, components, icons, Storybook stories and tests from a single config.json, using a built-in knowledge graph that reuses components across screens instead of generating duplicates.",
       "Features complexity-based model routing across Haiku, Sonnet and Opus tiers, an append-only knowledge-graph ledger with RAG similarity retrieval, per-run handovers for context rehydration, and a 15-step setup wizard with a hard Figma-MCP reachability gate.",
     ],
-    repo: "https://github.com/raveracker/figma-code-composer",
-    repoPath: "raveracker/figma-code-composer",
-    repos: ["raveracker/figma-code-composer"],
+    repo: "https://github.com/punkadillo/figma-code-composer",
+    repoPath: "punkadillo/figma-code-composer",
+    repos: ["punkadillo/figma-code-composer"],
     npm: ["figma-code-composer"],
     license: "MIT",
     tech: [
@@ -55,9 +55,9 @@ export const projects: Project[] = z.array(projectSchema).parse([
       "Supports both off-chain and on-chain (EVM) verification, published as three npm packages: a TypeScript SDK, a React hooks library and Solidity smart contracts.",
       "Uses Groth16 proofs generated from Circom circuits, with nullifier-based sybil resistance.",
     ],
-    repo: "https://github.com/raveracker/anoncitizen",
-    repoPath: "raveracker/anoncitizen",
-    repos: ["raveracker/anoncitizen"],
+    repo: "https://github.com/punkadillo/anoncitizen",
+    repoPath: "punkadillo/anoncitizen",
+    repos: ["punkadillo/anoncitizen"],
     npm: ["anoncitizen"],
     license: "MIT",
     tech: ["TypeScript", "Circom", "Solidity", "Groth16", "Polygon Amoy"],
@@ -79,9 +79,9 @@ export const projects: Project[] = z.array(projectSchema).parse([
       "A multi-agent orchestrator built on Claude routes tool calls across six specialised agents covering authentication, return submission, DSC signing and envelope construction.",
       "Ships with a mock server and a dry-run mode so the whole flow can be exercised without touching a real filing.",
     ],
-    repo: "https://github.com/raveracker/eri-tax-filing-agent",
-    repoPath: "raveracker/eri-tax-filing-agent",
-    repos: ["raveracker/eri-tax-filing-agent"],
+    repo: "https://github.com/punkadillo/eri-tax-filing-agent",
+    repoPath: "punkadillo/eri-tax-filing-agent",
+    repos: ["punkadillo/eri-tax-filing-agent"],
     license: "MIT",
     tech: ["TypeScript", "Anthropic API", "OpenAPI 3.0", "Zod", "Vitest"],
     facts: [
@@ -112,13 +112,13 @@ export const projects: Project[] = z.array(projectSchema).parse([
     visibility: "public",
     tagline:
       "A fraud detection platform using AI, plus a browser extension to detect scams.",
-    repo: "https://github.com/raveracker/fraudvisor",
-    repoPath: "raveracker/fraudvisor",
+    repo: "https://github.com/punkadillo/fraudvisor",
+    repoPath: "punkadillo/fraudvisor",
     repos: [
-      "raveracker/fraudvisor",
-      "raveracker/fraudvisor-backend",
-      "raveracker/fraudvisor-frontend",
-      "raveracker/fraudvisor-web-extension",
+      "punkadillo/fraudvisor",
+      "punkadillo/fraudvisor-backend",
+      "punkadillo/fraudvisor-frontend",
+      "punkadillo/fraudvisor-web-extension",
       "aniketsingh98571/Fraudvisor_Mumbai_Hacks_2025",
     ],
     license: "MIT",
@@ -132,9 +132,9 @@ export const projects: Project[] = z.array(projectSchema).parse([
     visibility: "public",
     tagline:
       "A super simple image cropping and rotation tool for Expo that runs on iOS, Android and Web.",
-    repo: "https://github.com/raveracker/expo-image-editor",
-    repoPath: "raveracker/expo-image-editor",
-    repos: ["raveracker/expo-image-editor"],
+    repo: "https://github.com/punkadillo/expo-image-editor",
+    repoPath: "punkadillo/expo-image-editor",
+    repos: ["punkadillo/expo-image-editor"],
     tech: ["TypeScript", "Expo", "React Native"],
   },
   {
@@ -144,9 +144,9 @@ export const projects: Project[] = z.array(projectSchema).parse([
     visibility: "public",
     tagline:
       "Turns rich HTML artifacts into collaborative human review surfaces for agents.",
-    repo: "https://github.com/raveracker/lavish-axi",
-    repoPath: "raveracker/lavish-axi",
-    repos: ["raveracker/lavish-axi", "kunchenguid/lavish-axi"],
+    repo: "https://github.com/punkadillo/lavish-axi",
+    repoPath: "punkadillo/lavish-axi",
+    repos: ["punkadillo/lavish-axi", "kunchenguid/lavish-axi"],
     tech: ["TypeScript", "Node.js", "CLI Tooling"],
   },
   {
@@ -156,9 +156,9 @@ export const projects: Project[] = z.array(projectSchema).parse([
     visibility: "public",
     tagline:
       "A free-tier LLM API surface, published openly and picked up by a collaborator who mirrors it in their own repository.",
-    repo: "https://github.com/raveracker/freellmapi",
-    repoPath: "raveracker/freellmapi",
-    repos: ["raveracker/freellmapi", "tashfeenahmed/freellmapi"],
+    repo: "https://github.com/punkadillo/freellmapi",
+    repoPath: "punkadillo/freellmapi",
+    repos: ["punkadillo/freellmapi", "tashfeenahmed/freellmapi"],
     tech: ["TypeScript"],
   },
   {
@@ -180,9 +180,9 @@ export const projects: Project[] = z.array(projectSchema).parse([
     visibility: "public",
     tagline:
       "A small Node utility for tunnelling into Render deployments during local debugging.",
-    repo: "https://github.com/raveracker/render-tunnel",
-    repoPath: "raveracker/render-tunnel",
-    repos: ["raveracker/render-tunnel"],
+    repo: "https://github.com/punkadillo/render-tunnel",
+    repoPath: "punkadillo/render-tunnel",
+    repos: ["punkadillo/render-tunnel"],
     tech: ["JavaScript"],
   },
   {
@@ -192,9 +192,9 @@ export const projects: Project[] = z.array(projectSchema).parse([
     visibility: "public",
     tagline:
       "Barcode printing for the Urovo i6300 and TSC Alpha-3RB Bluetooth label printer using their SDKs.",
-    repo: "https://github.com/raveracker/Urovo-TSC-BarcodePrint",
-    repoPath: "raveracker/Urovo-TSC-BarcodePrint",
-    repos: ["raveracker/Urovo-TSC-BarcodePrint"],
+    repo: "https://github.com/punkadillo/Urovo-TSC-BarcodePrint",
+    repoPath: "punkadillo/Urovo-TSC-BarcodePrint",
+    repos: ["punkadillo/Urovo-TSC-BarcodePrint"],
     tech: ["Java", "Android"],
   },
 
@@ -225,7 +225,7 @@ export const projects: Project[] = z.array(projectSchema).parse([
     visibility: "closed",
     tagline:
       "Mobile app, web platform and survey server for medical health behavioural analytics, plus a design system across nine brands.",
-    repos: ["raveracker/khapp", "raveracker/khportal", "raveracker/khserver"],
+    repos: ["punkadillo/khapp", "punkadillo/khportal", "punkadillo/khserver"],
     tech: ["React", "React Native", "Node.js", "Tailwind CSS", "Storybook"],
     facts: [
       { value: "9", label: "brands unified" },
@@ -239,7 +239,7 @@ export const projects: Project[] = z.array(projectSchema).parse([
     visibility: "closed",
     tagline:
       "Government blood donation mini app, built end to end as sole developer.",
-    repos: ["proceduretech/e-raktkosh", "raveracker/e-raktkosh-project-setup"],
+    repos: ["proceduretech/e-raktkosh", "punkadillo/e-raktkosh-project-setup"],
     tech: ["React", "TypeScript"],
   },
   {
@@ -258,9 +258,9 @@ export const projects: Project[] = z.array(projectSchema).parse([
     owner: "Bitespeed",
     visibility: "public",
     tagline: "Bitespeed backend task: identity reconciliation.",
-    repo: "https://github.com/raveracker/bytespeed-demo-api",
-    repoPath: "raveracker/bytespeed-demo-api",
-    repos: ["raveracker/bytespeed-demo-api"],
+    repo: "https://github.com/punkadillo/bytespeed-demo-api",
+    repoPath: "punkadillo/bytespeed-demo-api",
+    repos: ["punkadillo/bytespeed-demo-api"],
     tech: ["TypeScript", "Node.js"],
   },
   {
@@ -419,10 +419,10 @@ export const projects: Project[] = z.array(projectSchema).parse([
     tagline:
       "Food management system across four surfaces: customer app, vendor app, admin portal and server.",
     repos: [
-      "raveracker/bbapp",
-      "raveracker/bbportal",
-      "raveracker/bbserver",
-      "raveracker/bbvendor",
+      "punkadillo/bbapp",
+      "punkadillo/bbportal",
+      "punkadillo/bbserver",
+      "punkadillo/bbvendor",
     ],
     tech: ["React Native", "React", "Node.js", "Express"],
     facts: [{ value: "4", label: "surfaces" }],
@@ -433,7 +433,7 @@ export const projects: Project[] = z.array(projectSchema).parse([
     owner: "Personal",
     visibility: "closed",
     tagline: "A new and better version of Splitwise, mobile app plus backend.",
-    repos: ["raveracker/divvy-app", "raveracker/divvy-central"],
+    repos: ["punkadillo/divvy-app", "punkadillo/divvy-central"],
     tech: ["TypeScript", "Kotlin", "Docker"],
   },
   {
@@ -443,7 +443,7 @@ export const projects: Project[] = z.array(projectSchema).parse([
     visibility: "closed",
     tagline:
       "A custom ERP, CRM and LMS in one application, aimed at direct-to-consumer brands running all three on separate tools.",
-    repos: ["raveracker/punkzero"],
+    repos: ["punkadillo/punkzero"],
     tech: ["TypeScript", "Shell"],
   },
   {
@@ -453,7 +453,7 @@ export const projects: Project[] = z.array(projectSchema).parse([
     visibility: "closed",
     tagline:
       "A workout management app for freelance trainers and gyms, covering programme building and client tracking.",
-    repos: ["raveracker/gymmy"],
+    repos: ["punkadillo/gymmy"],
     tech: ["TypeScript", "React"],
   },
   {
@@ -463,7 +463,7 @@ export const projects: Project[] = z.array(projectSchema).parse([
     visibility: "closed",
     tagline:
       "A React Native passbook that tracks balances and movements across Bitcoin addresses.",
-    repos: ["raveracker/bitledger"],
+    repos: ["punkadillo/bitledger"],
     tech: ["React Native", "TypeScript"],
   },
   {
@@ -473,7 +473,7 @@ export const projects: Project[] = z.array(projectSchema).parse([
     visibility: "closed",
     tagline:
       "A React and TypeScript board for tracking work in flight across projects.",
-    repos: ["raveracker/projektwall"],
+    repos: ["punkadillo/projektwall"],
     tech: ["TypeScript", "React"],
   },
   {
@@ -483,7 +483,7 @@ export const projects: Project[] = z.array(projectSchema).parse([
     visibility: "closed",
     tagline:
       "A React reporting dashboard built to surface operational figures in one view.",
-    repos: ["raveracker/saputc-dashboard"],
+    repos: ["punkadillo/saputc-dashboard"],
     tech: ["TypeScript", "React"],
   },
 

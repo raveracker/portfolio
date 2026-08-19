@@ -26,8 +26,8 @@ export const hobbies: Hobby[] = z.array(hobbySchema).parse([
   },
   {
     slug: "fitness",
-    title: "Fitness",
-    emoji: "🏋️",
+    title: "BJJ (Brazilian Jiu-Jitsu) & Fitness",
+    emoji: "🥋",
     line: "Wealth is not good if not in good health, so I do a variety of workouts to keep myself fit and improve focus.",
   },
   {

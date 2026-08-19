@@ -36,8 +36,8 @@ export const profile = profileSchema.parse({
   links: [
     {
       label: "GitHub",
-      href: "https://github.com/raveracker",
-      handle: "@raveracker",
+      href: "https://github.com/punkadillo",
+      handle: "@punkadillo",
     },
     {
       label: "LinkedIn",
@@ -65,7 +65,7 @@ export const profile = profileSchema.parse({
       value: "44",
       label: "projects delivered",
       source:
-        "34 verified on GitHub across raveracker and allan-ra with private repos and org work included (70 repositories touched, 15 dropped as learning or scratch, 55 grouped into 34 products, 23 involving private code), plus 10 CV engagements whose code lived in client-owned orgs and so is invisible to any query - Pine Labs, CommandK, three Paytm products, Treebo, DocMyDoc, BookNGogo, Kafezz, Protia. Checked for overlap. Full reconciliation in docs/github-project-tally.md",
+        "34 verified on GitHub across punkadillo and allan-ra with private repos and org work included (70 repositories touched, 15 dropped as learning or scratch, 55 grouped into 34 products, 23 involving private code), plus 10 CV engagements whose code lived in client-owned orgs and so is invisible to any query - Pine Labs, CommandK, three Paytm products, Treebo, DocMyDoc, BookNGogo, Kafezz, Protia. Checked for overlap. Full reconciliation in docs/github-project-tally.md",
     },
     {
       value: "70%",
@@ -76,7 +76,7 @@ export const profile = profileSchema.parse({
       value: "10",
       label: "npm packages published",
       source:
-        "4 public and MIT, verified on the npm registry under maintainer raveracker: figma-code-composer, @anoncitizen/core, @anoncitizen/react, @anoncitizen/contracts. The remaining 6 are private and cannot be verified from a public registry.",
+        "4 public and MIT, verified on the npm registry under maintainer punkadillo: figma-code-composer, @anoncitizen/core, @anoncitizen/react, @anoncitizen/contracts. The remaining 6 are private and cannot be verified from a public registry.",
     },
   ],
 });

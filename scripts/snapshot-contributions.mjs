@@ -9,7 +9,7 @@
  * before an account is removed is simply lost. This file is the archive.
  *
  * Run it authenticated as the account being captured:
- *   gh auth switch --user raveracker && pnpm snapshot:contributions raveracker
+ *   gh auth switch --user punkadillo && pnpm snapshot:contributions punkadillo
  *
  * It merges into the existing snapshot rather than overwriting, so accounts
  * collected at different times accumulate.
