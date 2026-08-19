@@ -21,7 +21,7 @@ Queried via GraphQL, authenticated as **both** `punkadillo` and `allan-ra`, each
    `ORGANIZATION_MEMBER` affiliation, plus every repository contributed to via commit,
    PR, review or creation.
 2. Union the two accounts by `owner/name` so shared repositories are not double counted.
-3. Drop learning, practice, scratch and profile repositories.
+3. Drop learning, practice and scratch repositories.
 4. Group repositories that make up one product into a single project - a product split
    across `api`, `portal` and `app` repositories is one project, not three.
 
@@ -29,8 +29,8 @@ Queried via GraphQL, authenticated as **both** `punkadillo` and `allan-ra`, each
 
 | | |
 | --- | --- |
-| Distinct repositories touched | 70 |
-| Excluded as learning/scratch/profile | 15 |
+| Distinct repositories touched | 69 |
+| Excluded as learning/scratch | 14 |
 | Repositories counted | 55 |
 | **Distinct projects** | **34** |
 | Projects involving private code | 23 |
@@ -85,7 +85,7 @@ Already covered by Part 1 and deliberately **not** re-counted here: Hive
   fixes and features on an existing product rather than a delivery. Excluding it gives
   **43**. It is in because the stat reads "projects delivered" in the sense of worked on
   and shipped, which that was.
-- **Learning and scratch repositories are out.** All 15 are listed in
+- **Learning and scratch repositories are out.** All 14 are listed in
   `github-project-tally.txt`.
 
 ## Refreshing it

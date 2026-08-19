@@ -1,23 +1,23 @@
-repositories in scope:        70
-  excluded (learning/scratch): 15
+repositories in scope:        69
+  excluded (learning/scratch): 14
   counted toward projects:     55
 
 DISTINCT PROJECTS:            34
   with a private repo:        23
 
 projects (repo count each):
-   5  Fraudvisor                     aniketsingh98571/Fraudvisor_Mumbai_Hacks_2025, raveracker/fraudvisor, raveracker/fraudvisor-backend, raveracker/fraudvisor-frontend, raveracker/fraudvisor-web-extension
-   4  BB platform                    raveracker/bbapp, raveracker/bbportal, raveracker/bbserver, raveracker/bbvendor
+   5  Fraudvisor                     aniketsingh98571/Fraudvisor_Mumbai_Hacks_2025, punkadillo/fraudvisor, punkadillo/fraudvisor-backend, punkadillo/fraudvisor-frontend, punkadillo/fraudvisor-web-extension
+   4  BB platform                    punkadillo/bbapp, punkadillo/bbportal, punkadillo/bbserver, punkadillo/bbvendor
    4  Hive (RoomAngel)               ValueverseFZCO/hive-admin-backend, ValueverseFZCO/hive-api-backend, ValueverseFZCO/hive-connector, ValueverseFZCO/hive-frontend-monorepo
    3  Empirical Run CI               empirical-run/ci-script, empirical-run/ci-service, empirical-run/infra
-   3  HealthKart / BrightlifeCare    raveracker/khapp, raveracker/khportal, raveracker/khserver
+   3  HealthKart / BrightlifeCare    punkadillo/khapp, punkadillo/khportal, punkadillo/khserver
    2  Zeno                           aniketsingh98571/Zeno, igoyalsamarth/zeno
    2  Fiska                          Fiska-Consulting-Private-Limited/fiska-infra, Fiska-Consulting-Private-Limited/fiska-monorepo
-   2  lavish-axi                     kunchenguid/lavish-axi, raveracker/lavish-axi
-   2  E-Raktkosh                     proceduretech/e-raktkosh, raveracker/e-raktkosh-project-setup
+   2  lavish-axi                     kunchenguid/lavish-axi, punkadillo/lavish-axi
+   2  E-Raktkosh                     proceduretech/e-raktkosh, punkadillo/e-raktkosh-project-setup
    2  LawSafe                        punk-raven/lawman-llm, punk-raven/lawsafe
-   2  Divvy                          raveracker/divvy-app, raveracker/divvy-central
-   2  freellmapi                     raveracker/freellmapi, tashfeenahmed/freellmapi
+   2  Divvy                          punkadillo/divvy-app, punkadillo/divvy-central
+   2  freellmapi                     punkadillo/freellmapi, tashfeenahmed/freellmapi
    1  AppointerDashBoards            dlande777/AppointerDashBoards
    1  HummingNest                    KurakulaHemanthKumar/HummingNest
    1  React-App                      KurakulaHemanthKumar/React-App
@@ -25,35 +25,34 @@ projects (repo count each):
    1  dotnix                         punk-raven/dotnix
    1  landing-punks                  punk-raven/landing-punks
    1  tnt                            punk-raven/tnt
-   1  anoncitizen                    raveracker/anoncitizen
-   1  bitledger                      raveracker/bitledger
-   1  bytespeed-demo-api             raveracker/bytespeed-demo-api
-   1  eri-tax-filing-agent           raveracker/eri-tax-filing-agent
-   1  expo-image-editor              raveracker/expo-image-editor
-   1  figma-code-composer            raveracker/figma-code-composer
-   1  gymmy                          raveracker/gymmy
-   1  projektwall                    raveracker/projektwall
-   1  punkzero                       raveracker/punkzero
-   1  render-tunnel                  raveracker/render-tunnel
-   1  saputc-dashboard               raveracker/saputc-dashboard
-   1  Urovo-TSC-BarcodePrint         raveracker/Urovo-TSC-BarcodePrint
+   1  anoncitizen                    punkadillo/anoncitizen
+   1  bitledger                      punkadillo/bitledger
+   1  bytespeed-demo-api             punkadillo/bytespeed-demo-api
+   1  eri-tax-filing-agent           punkadillo/eri-tax-filing-agent
+   1  expo-image-editor              punkadillo/expo-image-editor
+   1  figma-code-composer            punkadillo/figma-code-composer
+   1  gymmy                          punkadillo/gymmy
+   1  projektwall                    punkadillo/projektwall
+   1  punkzero                       punkadillo/punkzero
+   1  render-tunnel                  punkadillo/render-tunnel
+   1  saputc-dashboard               punkadillo/saputc-dashboard
+   1  Urovo-TSC-BarcodePrint         punkadillo/Urovo-TSC-BarcodePrint
    1  rto-polling                    salikansari6/rto-polling
    1  rovii                          storiilabs/rovii
    1  excel                          vipin-developer/excel
 
 excluded:
       proceduretech/tdd-course
-      raveracker/advent-of-code
-      raveracker/agent-skills
-      raveracker/distributed_systems
-      raveracker/dotfiles
-      raveracker/dotfiles-mac-nix
-      raveracker/expo-test-screens
-      raveracker/git101
-      raveracker/LLM-and-Law
-      raveracker/personal-blog
-      raveracker/practice-merng-client
-      raveracker/practice-merng-server
-      raveracker/raveracker
-      raveracker/system-design-notes
-      raveracker/TestAlbum
+      punkadillo/advent-of-code
+      punkadillo/agent-skills
+      punkadillo/distributed_systems
+      punkadillo/dotfiles
+      punkadillo/dotfiles-mac-nix
+      punkadillo/expo-test-screens
+      punkadillo/git101
+      punkadillo/LLM-and-Law
+      punkadillo/personal-blog
+      punkadillo/practice-merng-client
+      punkadillo/practice-merng-server
+      punkadillo/system-design-notes
+      punkadillo/TestAlbum

@@ -65,7 +65,7 @@ export const profile = profileSchema.parse({
       value: "44",
       label: "projects delivered",
       source:
-        "34 verified on GitHub across punkadillo and allan-ra with private repos and org work included (70 repositories touched, 15 dropped as learning or scratch, 55 grouped into 34 products, 23 involving private code), plus 10 CV engagements whose code lived in client-owned orgs and so is invisible to any query - Pine Labs, CommandK, three Paytm products, Treebo, DocMyDoc, BookNGogo, Kafezz, Protia. Checked for overlap. Full reconciliation in docs/github-project-tally.md",
+        "34 verified on GitHub across punkadillo and allan-ra with private repos and org work included (69 repositories touched, 14 dropped as learning or scratch, 55 grouped into 34 products, 23 involving private code), plus 10 CV engagements whose code lived in client-owned orgs and so is invisible to any query - Pine Labs, CommandK, three Paytm products, Treebo, DocMyDoc, BookNGogo, Kafezz, Protia. Checked for overlap. Full reconciliation in docs/github-project-tally.md",
     },
     {
       value: "70%",
